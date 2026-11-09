@@ -76,7 +76,7 @@
         "wk:page":"Mahovo"
     },
     "wof:country":"HR",
-    "wof:geomhash":"d81b395649fb37c1a0b266d5c03e186a",
+    "wof:geomhash":"908124501cf41d66b93b297f6c074aa3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,5 +103,5 @@
     16.41056,
     45.56639000000001
 ],
-  "geometry": {"coordinates":[16.41056,45.56639000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.41056,45.56639],"type":"Point"}
 }

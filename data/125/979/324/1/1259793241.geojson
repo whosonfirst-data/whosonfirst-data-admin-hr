@@ -76,7 +76,7 @@
         "wk:page":"Donji_Daruvar"
     },
     "wof:country":"HR",
-    "wof:geomhash":"c748a70967f7130a974606624db0ac00",
+    "wof:geomhash":"8ef8be71d836334317e437ae331b2c5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     17.23082999999999,
     45.61361
 ],
-  "geometry": {"coordinates":[17.23082999999999,45.61361],"type":"Point"}
+  "geometry": {"coordinates":[17.23083,45.61361],"type":"Point"}
 }

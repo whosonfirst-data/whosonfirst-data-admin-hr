@@ -91,7 +91,7 @@
         "wk:page":"Brezni%C4%8Dki_Hum"
     },
     "wof:country":"HR",
-    "wof:geomhash":"af02d1ac9c34c99cf86c7e0e7c0a6a33",
+    "wof:geomhash":"ebbbe895e2cb4f9192f9c13320bb19e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,5 +116,5 @@
     16.27667000000001,
     46.10722
 ],
-  "geometry": {"coordinates":[16.27667000000001,46.10722],"type":"Point"}
+  "geometry": {"coordinates":[16.27667,46.10722],"type":"Point"}
 }

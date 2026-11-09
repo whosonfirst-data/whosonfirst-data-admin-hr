@@ -80,7 +80,7 @@
         "wk:page":"Donja_Obrije%C5%BE"
     },
     "wof:country":"HR",
-    "wof:geomhash":"fbf88d571c87f0d8be9bffdcd3054eb1",
+    "wof:geomhash":"ff82a9c0128eda72749e013c7a7b2459",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     17.13332999999999,
     45.48333
 ],
-  "geometry": {"coordinates":[17.13332999999999,45.48333],"type":"Point"}
+  "geometry": {"coordinates":[17.13333,45.48333],"type":"Point"}
 }

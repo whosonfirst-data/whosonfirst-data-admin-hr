@@ -70,7 +70,7 @@
         "wk:page":"Stara_Lipa%2C_Croatia"
     },
     "wof:country":"HR",
-    "wof:geomhash":"adbf7b2588c81be9830d561cab05d23b",
+    "wof:geomhash":"a585c604ed3c4822bc3677e8bac8fe77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     17.61332999999999,
     45.3475
 ],
-  "geometry": {"coordinates":[17.61332999999999,45.3475],"type":"Point"}
+  "geometry": {"coordinates":[17.61333,45.3475],"type":"Point"}
 }

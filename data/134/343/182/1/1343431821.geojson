@@ -41,7 +41,7 @@
         "wk:page":"Ko%C5%A1utarica"
     },
     "wof:country":"HR",
-    "wof:geomhash":"c5e12d1673ffb7b0133e57d4a1edec19",
+    "wof:geomhash":"1878f56fabb47bb8feda5dd4e8736227",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,5 +66,5 @@
     16.95277999999999,
     45.26167
 ],
-  "geometry": {"coordinates":[16.95277999999999,45.26167],"type":"Point"}
+  "geometry": {"coordinates":[16.95278,45.26167],"type":"Point"}
 }

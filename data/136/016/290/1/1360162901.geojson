@@ -73,7 +73,7 @@
         "wk:page":"Bori%C4%8Devci"
     },
     "wof:country":"HR",
-    "wof:geomhash":"37f05c22eefa668a870ccb94a8f8fa79",
+    "wof:geomhash":"45d9d5a9a38d98f8ef5cbd199387e5d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     17.54332999999999,
     45.36028
 ],
-  "geometry": {"coordinates":[17.54332999999999,45.36028],"type":"Point"}
+  "geometry": {"coordinates":[17.54333,45.36028],"type":"Point"}
 }

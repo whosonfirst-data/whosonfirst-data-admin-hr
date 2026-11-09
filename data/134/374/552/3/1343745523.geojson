@@ -80,7 +80,7 @@
         "wk:page":"Stru%C5%BEec"
     },
     "wof:country":"HR",
-    "wof:geomhash":"e35c499b1cbf8f5b40f531eb978e6ff9",
+    "wof:geomhash":"0a9acbcb444458a902b9d8f0552be9bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     16.55417000000001,
     45.52778
 ],
-  "geometry": {"coordinates":[16.55417000000001,45.52778],"type":"Point"}
+  "geometry": {"coordinates":[16.55417,45.52778],"type":"Point"}
 }

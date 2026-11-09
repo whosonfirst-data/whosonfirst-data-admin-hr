@@ -74,7 +74,7 @@
         "wk:page":"Rovinjsko_Selo"
     },
     "wof:country":"HR",
-    "wof:geomhash":"a75070234e22e90504168d7da503ef6d",
+    "wof:geomhash":"e911aa7bab1f56c4fbee560b9c066849",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     13.71556,
     45.10639000000001
 ],
-  "geometry": {"coordinates":[13.71556,45.10639000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.71556,45.10639],"type":"Point"}
 }

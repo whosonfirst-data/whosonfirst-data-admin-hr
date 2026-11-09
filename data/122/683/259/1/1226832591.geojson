@@ -66,7 +66,7 @@
         "wk:page":"Vu%C4%8Dini%C4%87i"
     },
     "wof:country":"HR",
-    "wof:geomhash":"c11c37c37ad89c9d35db90a315c0facb",
+    "wof:geomhash":"9019a46dc8087ae4ea2af0baabdec0c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     16.32972,
     45.15472000000001
 ],
-  "geometry": {"coordinates":[16.32972,45.15472000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.32972,45.15472],"type":"Point"}
 }

@@ -72,7 +72,7 @@
         "wk:page":"Ka%C5%A1tel"
     },
     "wof:country":"HR",
-    "wof:geomhash":"fa1d759209de5508fa2df56341fc3ee3",
+    "wof:geomhash":"866693deed98e5782bdbc1ed7a9a077e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     13.65722,
     45.44889000000001
 ],
-  "geometry": {"coordinates":[13.65722,45.44889000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.65722,45.44889],"type":"Point"}
 }

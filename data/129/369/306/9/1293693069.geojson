@@ -47,7 +47,7 @@
         "gn:id":3198551
     },
     "wof:country":"HR",
-    "wof:geomhash":"b5c9e5d1a0ec13953ad5f9e62cf4fa0b",
+    "wof:geomhash":"4777fab6965c67a8d5022a4d3342f0de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     14.0,
     45.10694
 ],
-  "geometry": {"coordinates":[14.0,45.10694],"type":"Point"}
+  "geometry": {"coordinates":[14,45.10694],"type":"Point"}
 }

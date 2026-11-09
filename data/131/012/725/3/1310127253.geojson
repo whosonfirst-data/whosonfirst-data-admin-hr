@@ -93,7 +93,7 @@
         "wk:page":"Veliko_Trgovi%C5%A1%C4%87e"
     },
     "wof:country":"HR",
-    "wof:geomhash":"847e0cf84212d554c46c3e799ade2e10",
+    "wof:geomhash":"2bd20e35d42502fbfbf08cd3a09215bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,5 +118,5 @@
     15.85,
     46.0
 ],
-  "geometry": {"coordinates":[15.85,46.0],"type":"Point"}
+  "geometry": {"coordinates":[15.85,46],"type":"Point"}
 }

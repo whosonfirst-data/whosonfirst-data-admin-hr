@@ -79,7 +79,7 @@
         "wk:page":"Ku%C4%87an_Ludbre%C5%A1ki"
     },
     "wof:country":"HR",
-    "wof:geomhash":"49d597cc4f53a390c7b02496b1f452f1",
+    "wof:geomhash":"66300190b12358392b24bb8c6e68e07c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,5 +106,5 @@
     16.60222000000001,
     46.24833
 ],
-  "geometry": {"coordinates":[16.60222000000001,46.24833],"type":"Point"}
+  "geometry": {"coordinates":[16.60222,46.24833],"type":"Point"}
 }

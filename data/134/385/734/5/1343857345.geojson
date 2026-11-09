@@ -87,7 +87,7 @@
         "wk:page":"Ribnik%2C_Croatia"
     },
     "wof:country":"HR",
-    "wof:geomhash":"7517d35f357572c8ed305f04c30882c4",
+    "wof:geomhash":"1bf80c6ff633a8378bc3fb9cd700a845",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,5 +112,5 @@
     15.35139,
     45.57944000000001
 ],
-  "geometry": {"coordinates":[15.35139,45.57944000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.35139,45.57944],"type":"Point"}
 }

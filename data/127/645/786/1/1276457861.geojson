@@ -73,7 +73,7 @@
         "wk:page":"Suhaja"
     },
     "wof:country":"HR",
-    "wof:geomhash":"b133bb2000f0c1471db97fb84731e20c",
+    "wof:geomhash":"f69f2438ed858687d1a11d438d3c53e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     16.63332999999999,
     45.71667
 ],
-  "geometry": {"coordinates":[16.63332999999999,45.71667],"type":"Point"}
+  "geometry": {"coordinates":[16.63333,45.71667],"type":"Point"}
 }

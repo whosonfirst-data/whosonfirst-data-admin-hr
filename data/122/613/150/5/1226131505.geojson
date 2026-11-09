@@ -81,7 +81,7 @@
         "wk:page":"Trnava%2C_Osijek-Baranja_County"
     },
     "wof:country":"HR",
-    "wof:geomhash":"1237482e69019a3fa901483f4631208b",
+    "wof:geomhash":"9e198b8ef54340d7b0c2d89f35f37dde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,5 +106,5 @@
     18.25306,
     45.26139000000001
 ],
-  "geometry": {"coordinates":[18.25306,45.26139000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.25306,45.26139],"type":"Point"}
 }

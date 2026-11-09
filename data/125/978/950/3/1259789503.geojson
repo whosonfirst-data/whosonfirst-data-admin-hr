@@ -70,7 +70,7 @@
         "wk:page":"Grimalda"
     },
     "wof:country":"HR",
-    "wof:geomhash":"9c0e11856fd7f9cbf95af1fb7d62311d",
+    "wof:geomhash":"17dc6aa175c9f6547850de50423ed5e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     13.98083,
     45.31639000000001
 ],
-  "geometry": {"coordinates":[13.98083,45.31639000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.98083,45.31639],"type":"Point"}
 }

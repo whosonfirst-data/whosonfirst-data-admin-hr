@@ -66,7 +66,7 @@
         "wk:page":"Kr%C4%8Denik"
     },
     "wof:country":"HR",
-    "wof:geomhash":"af9f14890fb210f47ec6c3e7b833b82b",
+    "wof:geomhash":"44e5a62892825cc212f2cef5f386e10c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     17.93332999999999,
     45.75
 ],
-  "geometry": {"coordinates":[17.93332999999999,45.75],"type":"Point"}
+  "geometry": {"coordinates":[17.93333,45.75],"type":"Point"}
 }

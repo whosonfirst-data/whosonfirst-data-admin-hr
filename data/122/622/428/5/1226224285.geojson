@@ -63,7 +63,7 @@
         "wk:page":"Slanje"
     },
     "wof:country":"HR",
-    "wof:geomhash":"b4e9657cee1f7ad7cbb17df53de39dc6",
+    "wof:geomhash":"38c13a808efecbb9033e051b69641ffe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     16.54389,
     46.23139000000001
 ],
-  "geometry": {"coordinates":[16.54389,46.23139000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.54389,46.23139],"type":"Point"}
 }

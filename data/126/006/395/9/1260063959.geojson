@@ -58,7 +58,7 @@
         "wk:page":"Svetobla%C5%BEje"
     },
     "wof:country":"HR",
-    "wof:geomhash":"cdfa1afedc295fa608e69d64c81f5cb1",
+    "wof:geomhash":"5c06f37e3ffc03e73c9ea1d14c149948",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     18.29722000000001,
     45.26722
 ],
-  "geometry": {"coordinates":[18.29722000000001,45.26722],"type":"Point"}
+  "geometry": {"coordinates":[18.29722,45.26722],"type":"Point"}
 }

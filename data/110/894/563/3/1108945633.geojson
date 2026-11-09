@@ -84,7 +84,7 @@
     "wof:concordances":{},
     "wof:country":"HR",
     "wof:created":1491365197,
-    "wof:geomhash":"208ff29c90ae0383113197e3e6be033e",
+    "wof:geomhash":"941dce9f2457dc50be328fe4653c807a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,5 +109,5 @@
     16.122912795162,
     45.82922365085274
 ],
-  "geometry": {"coordinates":[16.122912795162,45.82922365085274],"type":"Point"}
+  "geometry": {"coordinates":[16.122913,45.829224],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Bzenica%2C_Croatia"
     },
     "wof:country":"HR",
-    "wof:geomhash":"0744e98fdaa2c661270aa0a13c2a4a15",
+    "wof:geomhash":"03e0a9cf5078e817a99d37928881208a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     17.76693999999999,
     45.26083
 ],
-  "geometry": {"coordinates":[17.76693999999999,45.26083],"type":"Point"}
+  "geometry": {"coordinates":[17.76694,45.26083],"type":"Point"}
 }

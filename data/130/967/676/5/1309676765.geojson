@@ -76,7 +76,7 @@
         "wk:page":"Velika_Kosnica"
     },
     "wof:country":"HR",
-    "wof:geomhash":"ab4ef8a79748a050628e92ca70328b5f",
+    "wof:geomhash":"e2c19ce192556802a15c01ce220fc153",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,5 +103,5 @@
     16.08081,
     45.76094000000001
 ],
-  "geometry": {"coordinates":[16.08081,45.76094000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.08081,45.76094],"type":"Point"}
 }

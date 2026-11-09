@@ -80,7 +80,7 @@
         "wk:page":"%C5%A0ajini"
     },
     "wof:country":"HR",
-    "wof:geomhash":"5efe38effe9ca68d4edc64accd7988a2",
+    "wof:geomhash":"d458c618317d57ec5f4556b7f73edf02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     13.94306,
     45.03194000000001
 ],
-  "geometry": {"coordinates":[13.94306,45.03194000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.94306,45.03194],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Miklu%C5%A1evci"
     },
     "wof:country":"HR",
-    "wof:geomhash":"8501116b4a8522924f0e9e30f2ce5345",
+    "wof:geomhash":"6fa28168684246309ac92ca48bf43111",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -87,5 +87,5 @@
     19.08583,
     45.25194000000001
 ],
-  "geometry": {"coordinates":[19.08583,45.25194000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.08583,45.25194],"type":"Point"}
 }

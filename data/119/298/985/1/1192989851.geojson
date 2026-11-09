@@ -76,7 +76,7 @@
         "wk:page":"Nova_Jo%C5%A1ava"
     },
     "wof:country":"HR",
-    "wof:geomhash":"31aca707e24944dbe01248c49fcf81e2",
+    "wof:geomhash":"16020f1362131e34132aed50ab81ba9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,5 +103,5 @@
     17.93332999999999,
     45.51667
 ],
-  "geometry": {"coordinates":[17.93332999999999,45.51667],"type":"Point"}
+  "geometry": {"coordinates":[17.93333,45.51667],"type":"Point"}
 }

@@ -141,7 +141,7 @@
         "wk:page":"%C5%A0olta"
     },
     "wof:country":"HR",
-    "wof:geomhash":"7d9bfc0c3247c63f2a270f7a8320c71d",
+    "wof:geomhash":"93d313eed1f9cd5440f6027734012447",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -166,5 +166,5 @@
     16.28757,
     43.38659000000001
 ],
-  "geometry": {"coordinates":[16.28757,43.38659000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.28757,43.38659],"type":"Point"}
 }

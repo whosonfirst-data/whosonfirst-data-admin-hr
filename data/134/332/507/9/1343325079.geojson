@@ -50,7 +50,7 @@
         "wk:page":"Borovo_Naselje"
     },
     "wof:country":"HR",
-    "wof:geomhash":"d2b34b43b9a6a43b3c55404c77a21cf2",
+    "wof:geomhash":"3e791bc823ecbbf63d5bf6480b54b1b5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,5 +75,5 @@
     18.955,
     45.37889000000001
 ],
-  "geometry": {"coordinates":[18.955,45.37889000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.955,45.37889],"type":"Point"}
 }

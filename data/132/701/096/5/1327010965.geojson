@@ -73,7 +73,7 @@
         "wk:page":"Golobrdci"
     },
     "wof:country":"HR",
-    "wof:geomhash":"5a344c4ddfbd26b2d6fb0084e6d1d18b",
+    "wof:geomhash":"a4002ba9a90eb8fb0d5b6f8c6335c75b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     17.66193999999999,
     45.37694000000001
 ],
-  "geometry": {"coordinates":[17.66193999999999,45.37694000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.66194,45.37694],"type":"Point"}
 }

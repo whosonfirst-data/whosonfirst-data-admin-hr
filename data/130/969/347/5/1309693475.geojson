@@ -73,7 +73,7 @@
         "wk:page":"Gornji_Emovci"
     },
     "wof:country":"HR",
-    "wof:geomhash":"c274428d93b74f5d5b788798f5d49271",
+    "wof:geomhash":"00e36a83c4086ed2e3c9c8e2c48dd644",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     17.64222000000001,
     45.35639000000001
 ],
-  "geometry": {"coordinates":[17.64222000000001,45.35639000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.64222,45.35639],"type":"Point"}
 }

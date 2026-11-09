@@ -76,7 +76,7 @@
         "wk:page":"Hrvatsko_Selo"
     },
     "wof:country":"HR",
-    "wof:geomhash":"015270c0b347e0363726a5e27ea52bf0",
+    "wof:geomhash":"4822582929171eb77fc60d0081f464da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,5 +103,5 @@
     16.0,
     45.3
 ],
-  "geometry": {"coordinates":[16.0,45.3],"type":"Point"}
+  "geometry": {"coordinates":[16,45.3],"type":"Point"}
 }

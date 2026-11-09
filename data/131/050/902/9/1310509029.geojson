@@ -71,7 +71,7 @@
         "wk:page":"Sparagovi%C4%87i"
     },
     "wof:country":"HR",
-    "wof:geomhash":"bd58dd725dd0efef558113fa794a6215",
+    "wof:geomhash":"fe82fb0498d597bf47aca497438b46e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     17.61332999999999,
     42.855
 ],
-  "geometry": {"coordinates":[17.61332999999999,42.855],"type":"Point"}
+  "geometry": {"coordinates":[17.61333,42.855],"type":"Point"}
 }

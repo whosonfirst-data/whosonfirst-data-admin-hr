@@ -63,7 +63,7 @@
         "wk:page":"Glavnica_Donja"
     },
     "wof:country":"HR",
-    "wof:geomhash":"c06f4604e7566bb480ca558f0a3a4ff4",
+    "wof:geomhash":"aecf7b3af76cb703b346e00d0a08ae43",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     16.14492000000001,
     45.94112
 ],
-  "geometry": {"coordinates":[16.14492000000001,45.94112],"type":"Point"}
+  "geometry": {"coordinates":[16.14492,45.94112],"type":"Point"}
 }

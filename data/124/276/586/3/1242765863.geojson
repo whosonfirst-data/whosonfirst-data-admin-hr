@@ -84,7 +84,7 @@
         "wk:page":"%C4%8Caglin"
     },
     "wof:country":"HR",
-    "wof:geomhash":"e548f68b8d9dd66a5ac5df8d90e9ae0f",
+    "wof:geomhash":"8cb5b5f1257aa91cbf90ff2f70db75f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -109,5 +109,5 @@
     17.98972000000001,
     45.34972
 ],
-  "geometry": {"coordinates":[17.98972000000001,45.34972],"type":"Point"}
+  "geometry": {"coordinates":[17.98972,45.34972],"type":"Point"}
 }

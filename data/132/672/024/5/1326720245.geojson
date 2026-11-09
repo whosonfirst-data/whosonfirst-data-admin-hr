@@ -73,7 +73,7 @@
         "wk:page":"Oporovec"
     },
     "wof:country":"HR",
-    "wof:geomhash":"c414ec02e7b14fa8462298a15e6dd6df",
+    "wof:geomhash":"b15402cd7686e00e938f3e303390caf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     16.67527999999999,
     46.33194
 ],
-  "geometry": {"coordinates":[16.67527999999999,46.33194],"type":"Point"}
+  "geometry": {"coordinates":[16.67528,46.33194],"type":"Point"}
 }

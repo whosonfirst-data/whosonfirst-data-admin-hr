@@ -66,7 +66,7 @@
         "wk:page":"Cirkvena"
     },
     "wof:country":"HR",
-    "wof:geomhash":"f3ff3edb5baf47336641566d3c5216ff",
+    "wof:geomhash":"f4b40c6ebc33f47f00fff1d0b5330e3c",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -91,5 +91,5 @@
     16.66082999999999,
     45.93167
 ],
-  "geometry": {"coordinates":[16.66082999999999,45.93167],"type":"Point"}
+  "geometry": {"coordinates":[16.66083,45.93167],"type":"Point"}
 }

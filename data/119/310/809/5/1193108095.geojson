@@ -69,7 +69,7 @@
         "wk:page":"Katinovac"
     },
     "wof:country":"HR",
-    "wof:geomhash":"d9ff29d6db4ce3cdfb6f9f4e64b4c878",
+    "wof:geomhash":"8889d15d89aca914f7238b2504db1a9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     15.91472,
     45.23889000000001
 ],
-  "geometry": {"coordinates":[15.91472,45.23889000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.91472,45.23889],"type":"Point"}
 }

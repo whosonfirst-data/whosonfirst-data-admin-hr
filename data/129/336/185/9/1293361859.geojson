@@ -76,7 +76,7 @@
         "wk:page":"%C4%8Cetekovac"
     },
     "wof:country":"HR",
-    "wof:geomhash":"ec725cbd284958db3bebbcf69f83800e",
+    "wof:geomhash":"3f9d2122d0fdb3a4f530c7107546f950",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,5 +103,5 @@
     17.75511000000001,
     45.6108
 ],
-  "geometry": {"coordinates":[17.75511000000001,45.6108],"type":"Point"}
+  "geometry": {"coordinates":[17.75511,45.6108],"type":"Point"}
 }

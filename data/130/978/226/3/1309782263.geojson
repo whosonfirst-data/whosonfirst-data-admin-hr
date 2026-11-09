@@ -90,7 +90,7 @@
         "wk:page":"Nova_Bukovica"
     },
     "wof:country":"HR",
-    "wof:geomhash":"dcdb17e0429cd1b2901ac3fa09711647",
+    "wof:geomhash":"5d9456c1656f061b99258d34e62df596",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,5 +115,5 @@
     17.76693999999999,
     45.66472
 ],
-  "geometry": {"coordinates":[17.76693999999999,45.66472],"type":"Point"}
+  "geometry": {"coordinates":[17.76694,45.66472],"type":"Point"}
 }

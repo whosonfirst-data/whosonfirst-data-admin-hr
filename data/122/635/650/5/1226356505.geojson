@@ -80,7 +80,7 @@
         "wk:page":"Donja_Kova%C4%8Dica"
     },
     "wof:country":"HR",
-    "wof:geomhash":"3e671f196bc1766c0ec817722d36afa7",
+    "wof:geomhash":"4e5f00e088ab74e0f82fd63d605a941c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     16.9978,
     45.75429000000001
 ],
-  "geometry": {"coordinates":[16.9978,45.75429000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.9978,45.75429],"type":"Point"}
 }

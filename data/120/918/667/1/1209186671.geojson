@@ -62,7 +62,7 @@
         "wk:page":"Hra%C5%A1%C4%87ica"
     },
     "wof:country":"HR",
-    "wof:geomhash":"5cf4a8ca5706629fa9427ce0cdc5bd3e",
+    "wof:geomhash":"017a47092dbe2a00c708f3976b503b16",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -87,5 +87,5 @@
     16.29427,
     46.32494000000001
 ],
-  "geometry": {"coordinates":[16.29427,46.32494000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.29427,46.32494],"type":"Point"}
 }

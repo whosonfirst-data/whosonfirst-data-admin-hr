@@ -70,7 +70,7 @@
         "wk:page":"Novo_Selo_Palanje%C4%8Dko"
     },
     "wof:country":"HR",
-    "wof:geomhash":"b79a8e8044b9ce750fa9598edd821f35",
+    "wof:geomhash":"8f1cd159b0140c5d9a0d04fd77197ba7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     16.38332999999999,
     45.43333
 ],
-  "geometry": {"coordinates":[16.38332999999999,45.43333],"type":"Point"}
+  "geometry": {"coordinates":[16.38333,45.43333],"type":"Point"}
 }

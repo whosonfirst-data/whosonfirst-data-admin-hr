@@ -70,7 +70,7 @@
         "wk:page":"Donji_Meljani"
     },
     "wof:country":"HR",
-    "wof:geomhash":"0ec24c68fbec088c246fa97429f8a545",
+    "wof:geomhash":"4767df19acc59c574aac2cd6693397f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     17.63332999999999,
     45.73333
 ],
-  "geometry": {"coordinates":[17.63332999999999,45.73333],"type":"Point"}
+  "geometry": {"coordinates":[17.63333,45.73333],"type":"Point"}
 }

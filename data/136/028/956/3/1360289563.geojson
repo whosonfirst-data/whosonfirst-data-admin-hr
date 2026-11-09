@@ -70,7 +70,7 @@
         "wk:page":"Rogo%C5%BEa"
     },
     "wof:country":"HR",
-    "wof:geomhash":"e75b4721b4e9c069228bfad71a4a1bb5",
+    "wof:geomhash":"59519c7ea4f52940d153519f200f16c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     16.86277999999999,
     45.54667
 ],
-  "geometry": {"coordinates":[16.86277999999999,45.54667],"type":"Point"}
+  "geometry": {"coordinates":[16.86278,45.54667],"type":"Point"}
 }

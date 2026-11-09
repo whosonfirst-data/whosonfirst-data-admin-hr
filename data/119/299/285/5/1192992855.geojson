@@ -70,7 +70,7 @@
         "wk:page":"Gornje_Podoto%C4%8Dje"
     },
     "wof:country":"HR",
-    "wof:geomhash":"98fea2b8092f3639687ee3bf45c10cd4",
+    "wof:geomhash":"bc4f478e2458a51819ab68632d390963",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     16.13332999999999,
     45.68333
 ],
-  "geometry": {"coordinates":[16.13332999999999,45.68333],"type":"Point"}
+  "geometry": {"coordinates":[16.13333,45.68333],"type":"Point"}
 }

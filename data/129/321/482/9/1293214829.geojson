@@ -75,7 +75,7 @@
         "wk:page":"Kupinovac"
     },
     "wof:country":"HR",
-    "wof:geomhash":"a4f5d54fe0051169ac75ac8c3ffc7a2c",
+    "wof:geomhash":"c0b6343fbafa1ca1de20aa074c424d2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     16.89182000000001,
     45.95163
 ],
-  "geometry": {"coordinates":[16.89182000000001,45.95163],"type":"Point"}
+  "geometry": {"coordinates":[16.89182,45.95163],"type":"Point"}
 }

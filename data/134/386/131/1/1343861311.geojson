@@ -58,7 +58,7 @@
         "wk:page":"Lov%C4%8Di%C4%87"
     },
     "wof:country":"HR",
-    "wof:geomhash":"0e87895e3523567830486dd4d93bdacd",
+    "wof:geomhash":"86854ce6aa2632d46e8c86a67c6574b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     17.80222000000001,
     45.20472
 ],
-  "geometry": {"coordinates":[17.80222000000001,45.20472],"type":"Point"}
+  "geometry": {"coordinates":[17.80222,45.20472],"type":"Point"}
 }

@@ -70,7 +70,7 @@
         "wk:page":"Babotok"
     },
     "wof:country":"HR",
-    "wof:geomhash":"d7332b07f39645b9200ce050b1c74751",
+    "wof:geomhash":"9b6f08a91fb18a615773c7d8cee02b41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     16.88332999999999,
     46.01667
 ],
-  "geometry": {"coordinates":[16.88332999999999,46.01667],"type":"Point"}
+  "geometry": {"coordinates":[16.88333,46.01667],"type":"Point"}
 }

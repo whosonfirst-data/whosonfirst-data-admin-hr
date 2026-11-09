@@ -79,7 +79,7 @@
         "wk:page":"Gornji_Bogi%C4%87evci"
     },
     "wof:country":"HR",
-    "wof:geomhash":"6fce720aef517af08a8b0640c7d6b5f8",
+    "wof:geomhash":"6affccc58b4f5ce566c6a00211e39b3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     17.23611,
     45.25944000000001
 ],
-  "geometry": {"coordinates":[17.23611,45.25944000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.23611,45.25944],"type":"Point"}
 }

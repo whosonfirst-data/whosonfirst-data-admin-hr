@@ -43,7 +43,7 @@
         "wk:page":"Dolci_%28Orahovica%2C_Croatia%29"
     },
     "wof:country":"HR",
-    "wof:geomhash":"eac78d371267d774f5c0b1d96e2cd4be",
+    "wof:geomhash":"f98b8d95afbc79342feede0fe17a9c76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,5 +70,5 @@
     17.93332999999999,
     45.55
 ],
-  "geometry": {"coordinates":[17.93332999999999,45.55],"type":"Point"}
+  "geometry": {"coordinates":[17.93333,45.55],"type":"Point"}
 }

@@ -68,7 +68,7 @@
         "wk:page":"Bosanci%2C_Croatia"
     },
     "wof:country":"HR",
-    "wof:geomhash":"ada473f308b6819c3193a84b222a4928",
+    "wof:geomhash":"885e1131d8b26a9734194dd51d2be8a0",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -93,5 +93,5 @@
     15.265,
     45.43944000000001
 ],
-  "geometry": {"coordinates":[15.265,45.43944000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.265,45.43944],"type":"Point"}
 }

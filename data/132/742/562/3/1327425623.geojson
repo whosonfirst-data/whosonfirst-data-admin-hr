@@ -76,7 +76,7 @@
         "wk:page":"Tugonica"
     },
     "wof:country":"HR",
-    "wof:geomhash":"2fbee01d9823834958044fa686da56be",
+    "wof:geomhash":"ec9ad11cce66dbbdc9dce41969ffcaba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,5 +103,5 @@
     16.10167,
     46.02972000000001
 ],
-  "geometry": {"coordinates":[16.10167,46.02972000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.10167,46.02972],"type":"Point"}
 }

@@ -73,7 +73,7 @@
         "wk:page":"Dubovec%2C_Croatia"
     },
     "wof:country":"HR",
-    "wof:geomhash":"852dfe8daa0d0e532a1e19279f78c978",
+    "wof:geomhash":"c54bddc6ac96e71eba65108fac24e875",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     16.02442000000001,
     46.02146
 ],
-  "geometry": {"coordinates":[16.02442000000001,46.02146],"type":"Point"}
+  "geometry": {"coordinates":[16.02442,46.02146],"type":"Point"}
 }

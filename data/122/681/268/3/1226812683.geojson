@@ -76,7 +76,7 @@
         "wk:page":"Macute"
     },
     "wof:country":"HR",
-    "wof:geomhash":"2c684bd9cef4f08e1dcbff2a8621f274",
+    "wof:geomhash":"8fc05b731a9f334fc32b4f9f93cb1b02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,5 +103,5 @@
     17.63332999999999,
     45.62194
 ],
-  "geometry": {"coordinates":[17.63332999999999,45.62194],"type":"Point"}
+  "geometry": {"coordinates":[17.63333,45.62194],"type":"Point"}
 }

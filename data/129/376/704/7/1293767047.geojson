@@ -76,7 +76,7 @@
         "wk:page":"Puska"
     },
     "wof:country":"HR",
-    "wof:geomhash":"9303fd91dfff789ce66e03a2f99ee3fc",
+    "wof:geomhash":"5947442e87ac037d83d0c9010db5018b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,5 +103,5 @@
     16.79332999999999,
     45.32306
 ],
-  "geometry": {"coordinates":[16.79332999999999,45.32306],"type":"Point"}
+  "geometry": {"coordinates":[16.79333,45.32306],"type":"Point"}
 }

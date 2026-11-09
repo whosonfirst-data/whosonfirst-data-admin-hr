@@ -61,7 +61,7 @@
         "wk:page":"Golinci"
     },
     "wof:country":"HR",
-    "wof:geomhash":"50398e656b6f3818b4330def0e4520ca",
+    "wof:geomhash":"f9bd15658ef56eb25f00488e2c38db9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     18.16583,
     45.68944000000001
 ],
-  "geometry": {"coordinates":[18.16583,45.68944000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.16583,45.68944],"type":"Point"}
 }

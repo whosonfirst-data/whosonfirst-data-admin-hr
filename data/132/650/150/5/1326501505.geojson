@@ -75,7 +75,7 @@
         "wk:page":"Biskupija"
     },
     "wof:country":"HR",
-    "wof:geomhash":"a2bd8dd7fae20b191fb346434d0bcf72",
+    "wof:geomhash":"5e709b881babfdb6ee3a97b63d902353",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     16.23722,
     44.01139000000001
 ],
-  "geometry": {"coordinates":[16.23722,44.01139000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.23722,44.01139],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Markovac_Kri%C5%BEeva%C4%8Dki"
     },
     "wof:country":"HR",
-    "wof:geomhash":"5048d543cb47dc01d3932664ef38c2bd",
+    "wof:geomhash":"cf9d5a1173d9d618823dfd7a45f46a22",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -89,5 +89,5 @@
     16.69106,
     45.95014000000001
 ],
-  "geometry": {"coordinates":[16.69106,45.95014000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.69106,45.95014],"type":"Point"}
 }

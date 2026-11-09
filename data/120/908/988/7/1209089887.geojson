@@ -74,7 +74,7 @@
         "wk:page":"Grabo%C5%A1tani"
     },
     "wof:country":"HR",
-    "wof:geomhash":"12de4d1859ea847b5159b7090c9c5662",
+    "wof:geomhash":"81775e70ba1794250ce26de4611b1e01",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -99,5 +99,5 @@
     16.54722000000001,
     45.28111
 ],
-  "geometry": {"coordinates":[16.54722000000001,45.28111],"type":"Point"}
+  "geometry": {"coordinates":[16.54722,45.28111],"type":"Point"}
 }

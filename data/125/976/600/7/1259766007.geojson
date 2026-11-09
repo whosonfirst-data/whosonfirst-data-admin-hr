@@ -67,7 +67,7 @@
         "wk:page":"%C4%8Citluk%2C_Sinj"
     },
     "wof:country":"HR",
-    "wof:geomhash":"5f94cc9afd60b1966ee45ef3b85e6556",
+    "wof:geomhash":"36c8427d0e9e1d2174796834428f88e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     16.64417000000001,
     43.75361
 ],
-  "geometry": {"coordinates":[16.64417000000001,43.75361],"type":"Point"}
+  "geometry": {"coordinates":[16.64417,43.75361],"type":"Point"}
 }

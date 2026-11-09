@@ -64,7 +64,7 @@
         "wk:page":"Brodski_Drenovac"
     },
     "wof:country":"HR",
-    "wof:geomhash":"a46e7ece57a93b7639309a8d939613f5",
+    "wof:geomhash":"b0d4424641f1d71b4b6e101d6c900d8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     17.75417000000001,
     45.22278
 ],
-  "geometry": {"coordinates":[17.75417000000001,45.22278],"type":"Point"}
+  "geometry": {"coordinates":[17.75417,45.22278],"type":"Point"}
 }

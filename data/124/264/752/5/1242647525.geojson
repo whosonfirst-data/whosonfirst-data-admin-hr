@@ -76,7 +76,7 @@
         "wk:page":"Donji_Humac"
     },
     "wof:country":"HR",
-    "wof:geomhash":"b9d7725e498d0ccc8bc959282f829f55",
+    "wof:geomhash":"6e116a47ae1ac9c49e53cceb2cb9ad8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     16.55583,
     43.34222000000001
 ],
-  "geometry": {"coordinates":[16.55583,43.34222000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.55583,43.34222],"type":"Point"}
 }

@@ -75,7 +75,7 @@
         "wk:page":"Bi%C5%A1kupec_Zelinski"
     },
     "wof:country":"HR",
-    "wof:geomhash":"601a45b7da3c9bced047172a15883295",
+    "wof:geomhash":"ead73e775975defba975fba5e94ed1ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     16.2425,
     45.96194000000001
 ],
-  "geometry": {"coordinates":[16.2425,45.96194000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.2425,45.96194],"type":"Point"}
 }

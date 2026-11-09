@@ -67,7 +67,7 @@
         "wk:page":"%C4%86osinac"
     },
     "wof:country":"HR",
-    "wof:geomhash":"8cc0e32296e2f4ec8781774469355a3e",
+    "wof:geomhash":"a8bfc99348b3dfc461c68753ebeff767",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     17.83582999999999,
     45.35
 ],
-  "geometry": {"coordinates":[17.83582999999999,45.35],"type":"Point"}
+  "geometry": {"coordinates":[17.83583,45.35],"type":"Point"}
 }

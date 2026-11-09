@@ -64,7 +64,7 @@
         "wk:page":"Kadanovci"
     },
     "wof:country":"HR",
-    "wof:geomhash":"63fe173ad50aec67a887411e295a693a",
+    "wof:geomhash":"0912bc412f1645bdff2cd941e529ea49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     17.82832999999999,
     45.26139000000001
 ],
-  "geometry": {"coordinates":[17.82832999999999,45.26139000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.82833,45.26139],"type":"Point"}
 }

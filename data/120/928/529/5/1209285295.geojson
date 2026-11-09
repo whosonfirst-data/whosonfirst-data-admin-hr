@@ -78,7 +78,7 @@
         "wk:page":"Gornja_Gra%C4%8Denica"
     },
     "wof:country":"HR",
-    "wof:geomhash":"d5b8f944859d0a5d428918dc9f998e8f",
+    "wof:geomhash":"2efc114c69367cd2b641ee08db65b55b",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -103,5 +103,5 @@
     16.69582999999999,
     45.51278
 ],
-  "geometry": {"coordinates":[16.69582999999999,45.51278],"type":"Point"}
+  "geometry": {"coordinates":[16.69583,45.51278],"type":"Point"}
 }

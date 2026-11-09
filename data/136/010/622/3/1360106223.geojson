@@ -70,7 +70,7 @@
         "wk:page":"Ravnice%2C_Krapina-Zagorje_County"
     },
     "wof:country":"HR",
-    "wof:geomhash":"cace7ed7c9f9087a56e8e2f1bf0c13d5",
+    "wof:geomhash":"90acdd21c261afabfdea4d56d2c208de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     15.8204,
     46.04369000000001
 ],
-  "geometry": {"coordinates":[15.8204,46.04369000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.8204,46.04369],"type":"Point"}
 }

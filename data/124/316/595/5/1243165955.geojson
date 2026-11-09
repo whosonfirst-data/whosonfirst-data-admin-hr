@@ -67,7 +67,7 @@
         "wk:page":"Novi_Bolman"
     },
     "wof:country":"HR",
-    "wof:geomhash":"4f137c549875a6f2bb035a5d460a68e3",
+    "wof:geomhash":"e4eafe3da7f3dcc1248af7b4c7bcd3c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     18.53972000000001,
     45.72472
 ],
-  "geometry": {"coordinates":[18.53972000000001,45.72472],"type":"Point"}
+  "geometry": {"coordinates":[18.53972,45.72472],"type":"Point"}
 }

@@ -75,7 +75,7 @@
         "wk:page":"Borojevi%C4%87i"
     },
     "wof:country":"HR",
-    "wof:geomhash":"e6d44f969f92e2ab824c6c30912466f1",
+    "wof:geomhash":"c5db5b6b9113f79d7c99a4d0dc1c87aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     16.40167000000001,
     45.29722
 ],
-  "geometry": {"coordinates":[16.40167000000001,45.29722],"type":"Point"}
+  "geometry": {"coordinates":[16.40167,45.29722],"type":"Point"}
 }

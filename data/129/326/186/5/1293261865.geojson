@@ -72,7 +72,7 @@
         "wk:page":"Sigetec_Ludbre%C5%A1ki"
     },
     "wof:country":"HR",
-    "wof:geomhash":"3097e19776660a5056d8c5074d863190",
+    "wof:geomhash":"dfaa8f5637fc936cc648f747e73ab2d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     16.63889,
     46.25944000000001
 ],
-  "geometry": {"coordinates":[16.63889,46.25944000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.63889,46.25944],"type":"Point"}
 }

@@ -76,7 +76,7 @@
         "wk:page":"Orolik"
     },
     "wof:country":"HR",
-    "wof:geomhash":"d57c842d9fb497abbee11211c8503918",
+    "wof:geomhash":"472f282e7c09d2fee602315d12c0be02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,5 +103,5 @@
     18.98472000000001,
     45.21528
 ],
-  "geometry": {"coordinates":[18.98472000000001,45.21528],"type":"Point"}
+  "geometry": {"coordinates":[18.98472,45.21528],"type":"Point"}
 }

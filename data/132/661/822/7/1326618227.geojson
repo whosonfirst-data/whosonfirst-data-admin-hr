@@ -67,7 +67,7 @@
         "wk:page":"Ugarci%2C_Croatia"
     },
     "wof:country":"HR",
-    "wof:geomhash":"50cee16b1e9464ada27b9540f617bcbc",
+    "wof:geomhash":"e610d86020df7052aa16a45623545b71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     17.59943999999999,
     45.37333
 ],
-  "geometry": {"coordinates":[17.59943999999999,45.37333],"type":"Point"}
+  "geometry": {"coordinates":[17.59944,45.37333],"type":"Point"}
 }

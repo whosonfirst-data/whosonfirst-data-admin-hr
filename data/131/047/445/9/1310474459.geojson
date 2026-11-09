@@ -75,7 +75,7 @@
         "wk:page":"Svibovec_Podravski"
     },
     "wof:country":"HR",
-    "wof:geomhash":"220edf52e08a755eacb72e3809c4c79e",
+    "wof:geomhash":"47781a723e864fe1287daf7abde2be55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     16.28194,
     46.35639000000001
 ],
-  "geometry": {"coordinates":[16.28194,46.35639000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.28194,46.35639],"type":"Point"}
 }

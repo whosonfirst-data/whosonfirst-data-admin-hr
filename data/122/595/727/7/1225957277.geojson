@@ -70,7 +70,7 @@
         "wk:page":"Bijela_Stijena"
     },
     "wof:country":"HR",
-    "wof:geomhash":"faec5f6e5556d7d1b3c63efd2cf78d85",
+    "wof:geomhash":"a115e276f25e7bc38576e0d5035e43aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     17.19292,
     45.34334000000001
 ],
-  "geometry": {"coordinates":[17.19292,45.34334000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.19292,45.34334],"type":"Point"}
 }

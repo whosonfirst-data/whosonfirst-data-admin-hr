@@ -70,7 +70,7 @@
         "wk:page":"Hra%C5%A1%C4%87e_Turopoljsko"
     },
     "wof:country":"HR",
-    "wof:geomhash":"776dddc9d07381b25d2d947c3a4a5433",
+    "wof:geomhash":"da056802d48750ca972dc78ee2a91f6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     16.0,
     45.73333
 ],
-  "geometry": {"coordinates":[16.0,45.73333],"type":"Point"}
+  "geometry": {"coordinates":[16,45.73333],"type":"Point"}
 }

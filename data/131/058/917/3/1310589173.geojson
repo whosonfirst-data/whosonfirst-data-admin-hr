@@ -73,7 +73,7 @@
         "wk:page":"Radnovac"
     },
     "wof:country":"HR",
-    "wof:geomhash":"a1e2cb82180389f69887e8a0bc6a0d6e",
+    "wof:geomhash":"664c21ed22c4bcfb8d57f79054f6d1c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     17.78693999999999,
     45.36083
 ],
-  "geometry": {"coordinates":[17.78693999999999,45.36083],"type":"Point"}
+  "geometry": {"coordinates":[17.78694,45.36083],"type":"Point"}
 }

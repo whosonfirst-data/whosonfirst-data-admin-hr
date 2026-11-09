@@ -79,7 +79,7 @@
         "wk:page":"Dra%C5%BE"
     },
     "wof:country":"HR",
-    "wof:geomhash":"e8d88605db9d223a00932219b2e341e8",
+    "wof:geomhash":"568e23ddcdca9940dcfdd05b14745682",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -102,5 +102,5 @@
     18.78861,
     45.84222000000001
 ],
-  "geometry": {"coordinates":[18.78861,45.84222000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.78861,45.84222],"type":"Point"}
 }

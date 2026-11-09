@@ -124,7 +124,7 @@
     },
     "wof:country":"HR",
     "wof:created":1497299134,
-    "wof:geomhash":"9df7bffa8839eb86f74953641aae984a",
+    "wof:geomhash":"8efc928aff9ada530b4912ef491f020d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -151,5 +151,5 @@
     17.0,
     43.5
 ],
-  "geometry": {"coordinates":[17.0,43.5],"type":"Point"}
+  "geometry": {"coordinates":[17,43.5],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"%C5%A0imljanik"
     },
     "wof:country":"HR",
-    "wof:geomhash":"67aa61050008be5b8f2ab6e6c635282a",
+    "wof:geomhash":"c2fd32485d907b3f507178b878c9bbd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     16.78333,
     45.66889000000001
 ],
-  "geometry": {"coordinates":[16.78333,45.66889000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.78333,45.66889],"type":"Point"}
 }

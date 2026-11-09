@@ -83,7 +83,7 @@
         "wk:page":"Veliko_Vukovje"
     },
     "wof:country":"HR",
-    "wof:geomhash":"170287bbbe3559da3df37cf9463eb3bc",
+    "wof:geomhash":"2bad2edff0ca6aa66158ffe35de482ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,5 +110,5 @@
     16.88722000000001,
     45.52
 ],
-  "geometry": {"coordinates":[16.88722000000001,45.52],"type":"Point"}
+  "geometry": {"coordinates":[16.88722,45.52],"type":"Point"}
 }

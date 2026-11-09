@@ -71,7 +71,7 @@
         "wk:page":"Novo_Selo%2C_Po%C5%BEega-Slavonia_County"
     },
     "wof:country":"HR",
-    "wof:geomhash":"2b0988169e417f65bca90503643c110a",
+    "wof:geomhash":"63574127b5e53512f79de199a18c3f53",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -94,5 +94,5 @@
     17.63527999999999,
     45.32194000000001
 ],
-  "geometry": {"coordinates":[17.63527999999999,45.32194000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.63528,45.32194],"type":"Point"}
 }

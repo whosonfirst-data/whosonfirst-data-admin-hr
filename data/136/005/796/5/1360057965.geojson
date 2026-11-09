@@ -71,7 +71,7 @@
         "wk:page":"Strmec_Podravski"
     },
     "wof:country":"HR",
-    "wof:geomhash":"2c143fd1011696d879334c034b5c8851",
+    "wof:geomhash":"9445479cc28dfd9799f263496c0221a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     16.21417000000001,
     46.36444
 ],
-  "geometry": {"coordinates":[16.21417000000001,46.36444],"type":"Point"}
+  "geometry": {"coordinates":[16.21417,46.36444],"type":"Point"}
 }

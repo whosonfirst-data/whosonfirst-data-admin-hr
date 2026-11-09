@@ -87,7 +87,7 @@
         "wk:page":"Novo_Virje"
     },
     "wof:country":"HR",
-    "wof:geomhash":"34dfcc1cae36e5dc7551b41e08e08694",
+    "wof:geomhash":"642a4504b2d71a4b43396feaf3923ec6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,5 +112,5 @@
     17.15167000000001,
     46.09139
 ],
-  "geometry": {"coordinates":[17.15167000000001,46.09139],"type":"Point"}
+  "geometry": {"coordinates":[17.15167,46.09139],"type":"Point"}
 }

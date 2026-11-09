@@ -96,7 +96,7 @@
         "wk:page":"%C5%A0estanovac"
     },
     "wof:country":"HR",
-    "wof:geomhash":"5e25955fab745ac4c0b7f662f11c05f9",
+    "wof:geomhash":"d9a62e3d0e1a1b1c8be21faabe3680e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -121,5 +121,5 @@
     16.91139,
     43.45444000000001
 ],
-  "geometry": {"coordinates":[16.91139,43.45444000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.91139,43.45444],"type":"Point"}
 }

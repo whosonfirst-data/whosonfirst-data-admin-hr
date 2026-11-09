@@ -70,7 +70,7 @@
         "wk:page":"Knezovljani"
     },
     "wof:country":"HR",
-    "wof:geomhash":"7546061994617a36c44bd0b0e83d41c9",
+    "wof:geomhash":"3b34e853e670b09c8192583f391b67f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     16.41832999999999,
     45.30806
 ],
-  "geometry": {"coordinates":[16.41832999999999,45.30806],"type":"Point"}
+  "geometry": {"coordinates":[16.41833,45.30806],"type":"Point"}
 }

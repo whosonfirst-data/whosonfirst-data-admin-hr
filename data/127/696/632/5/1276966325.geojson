@@ -74,7 +74,7 @@
         "wk:page":"%C5%BDejane"
     },
     "wof:country":"HR",
-    "wof:geomhash":"6fa77bc7ac3c3ee6f5c7c9974b611c08",
+    "wof:geomhash":"3c5f6425917ff87d637554cecd8338be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,5 +101,5 @@
     14.19528,
     45.43944000000001
 ],
-  "geometry": {"coordinates":[14.19528,45.43944000000001],"type":"Point"}
+  "geometry": {"coordinates":[14.19528,45.43944],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"%C5%BDe%C5%BEevica"
     },
     "wof:country":"HR",
-    "wof:geomhash":"95a0fef746cba83e5a4e148f0fb6ccdc",
+    "wof:geomhash":"1cdd08207846884b589afdd212b87665",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     16.93912000000001,
     43.45167
 ],
-  "geometry": {"coordinates":[16.93912000000001,43.45167],"type":"Point"}
+  "geometry": {"coordinates":[16.93912,43.45167],"type":"Point"}
 }

@@ -71,7 +71,7 @@
         "wk:page":"Sveti_Juraj_na_Bregu"
     },
     "wof:country":"HR",
-    "wof:geomhash":"4c7a800a081dd6bfbe8e8561fc6aa11c",
+    "wof:geomhash":"6014ea5c41c7dbf39d95d68ca1de8c39",
     "wof:hierarchy":[
         {
             "country_id":85633229,
@@ -94,5 +94,5 @@
     16.38497000000001,
     46.43135
 ],
-  "geometry": {"coordinates":[16.38497000000001,46.43135],"type":"Point"}
+  "geometry": {"coordinates":[16.38497,46.43135],"type":"Point"}
 }

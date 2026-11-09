@@ -80,7 +80,7 @@
         "wk:page":"Br%C4%91ani_Cesta"
     },
     "wof:country":"HR",
-    "wof:geomhash":"6e7f8e9813d6d777ea655d89935fab75",
+    "wof:geomhash":"6d4343cc1108d058697cfeb7c2ff7596",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,5 +107,5 @@
     16.49806,
     45.37889000000001
 ],
-  "geometry": {"coordinates":[16.49806,45.37889000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.49806,45.37889],"type":"Point"}
 }

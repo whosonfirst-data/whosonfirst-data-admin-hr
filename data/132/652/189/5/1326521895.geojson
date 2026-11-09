@@ -90,7 +90,7 @@
         "wk:page":"Gornja_Stubica"
     },
     "wof:country":"HR",
-    "wof:geomhash":"f294bee095fa02b13932984ba21d7911",
+    "wof:geomhash":"26e68b02572d4bcfd82dbeb58b97bd90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,5 +115,5 @@
     16.01931,
     45.97519000000001
 ],
-  "geometry": {"coordinates":[16.01931,45.97519000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.01931,45.97519],"type":"Point"}
 }

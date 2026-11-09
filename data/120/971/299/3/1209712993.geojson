@@ -67,7 +67,7 @@
         "wk:page":"Velika_Mu%C4%8Dna"
     },
     "wof:country":"HR",
-    "wof:geomhash":"3c59055b1d26e7e2082c6189e72bd6f0",
+    "wof:geomhash":"d09808995154c549a32f84326870a739",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     16.74806,
     46.12139000000001
 ],
-  "geometry": {"coordinates":[16.74806,46.12139000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.74806,46.12139],"type":"Point"}
 }

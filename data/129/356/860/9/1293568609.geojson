@@ -110,7 +110,7 @@
         "wk:page":"Kaprije"
     },
     "wof:country":"HR",
-    "wof:geomhash":"7a4bb76cb801771df630e6724b2ab69b",
+    "wof:geomhash":"f0eb097b3e240d981753d5afbe0101be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,5 +137,5 @@
     15.71167,
     43.69139000000001
 ],
-  "geometry": {"coordinates":[15.71167,43.69139000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.71167,43.69139],"type":"Point"}
 }

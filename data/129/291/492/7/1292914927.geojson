@@ -64,7 +64,7 @@
         "wk:page":"Kozarica"
     },
     "wof:country":"HR",
-    "wof:geomhash":"285552f4d8337cd71138587208a13aa1",
+    "wof:geomhash":"1d7411ec34b7a4c5dc14459018b09347",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     17.46417000000001,
     42.77639
 ],
-  "geometry": {"coordinates":[17.46417000000001,42.77639],"type":"Point"}
+  "geometry": {"coordinates":[17.46417,42.77639],"type":"Point"}
 }

@@ -87,7 +87,7 @@
         "wk:page":"Novigrad%2C_Zadar_County"
     },
     "wof:country":"HR",
-    "wof:geomhash":"88d83ce98f2b226d1fa1f71f30e92deb",
+    "wof:geomhash":"8f0ecf1241253d9a8a9e5233e3c32e44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,5 +112,5 @@
     15.55417,
     44.18389000000001
 ],
-  "geometry": {"coordinates":[15.55417,44.18389000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.55417,44.18389],"type":"Point"}
 }
