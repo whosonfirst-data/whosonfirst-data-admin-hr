@@ -1,0 +1,72 @@
+{
+  "id": 9895028970,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.397,44.32177,15.397,44.32177",
+    "geom:latitude":44.32177,
+    "geom:longitude":15.397,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12047497: name \"La\u0111in Porat\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12047497"
+        },
+        {
+            "citation":"GeoNames populated place 12047497: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12047497"
+        },
+        {
+            "citation":"GeoNames populated place 12047497: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12047497"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684807 (Zadarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684807,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12047497
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"1ae2bdedb19688bbad51ca88fdb3b0e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895028970,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":9895028970,
+    "wof:lastmodified":1795734984,
+    "wof:name":"La\u0111in Porat",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.397,
+    44.32177,
+    15.397,
+    44.32177
+],
+  "geometry": {"coordinates":[15.397,44.32177],"type":"Point"}
+}

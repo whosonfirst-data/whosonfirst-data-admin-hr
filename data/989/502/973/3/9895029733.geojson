@@ -1,0 +1,73 @@
+{
+  "id": 9895029733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54853,45.76026,15.54853,45.76026",
+    "geom:latitude":45.76026,
+    "geom:longitude":15.54853,
+    "gn:population":21,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509502: name \"Brezovac \u017dumbera\u010dki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509502"
+        },
+        {
+            "citation":"GeoNames populated place 12509502: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509502"
+        },
+        {
+            "citation":"GeoNames populated place 12509502: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509502"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509502
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"696d268cc9918c6dcc4628bb10a29618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029733,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895029733,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Brezovac \u017dumbera\u010dki",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54853,
+    45.76026,
+    15.54853,
+    45.76026
+],
+  "geometry": {"coordinates":[15.54853,45.76026],"type":"Point"}
+}

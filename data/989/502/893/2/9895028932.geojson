@@ -1,0 +1,73 @@
+{
+  "id": 9895028932,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06871,43.48608,16.06871,43.48608",
+    "geom:latitude":43.48608,
+    "geom:longitude":16.06871,
+    "gn:population":33,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12047448: name \"Ljubljeva\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12047448"
+        },
+        {
+            "citation":"GeoNames populated place 12047448: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12047448"
+        },
+        {
+            "citation":"GeoNames populated place 12047448: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12047448"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684781 (Splitsko-dalmatinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684781,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12047448
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4bdd533fae832d405b58700c71030bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895028932,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":9895028932,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Ljubljeva",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06871,
+    43.48608,
+    16.06871,
+    43.48608
+],
+  "geometry": {"coordinates":[16.06871,43.48608],"type":"Point"}
+}

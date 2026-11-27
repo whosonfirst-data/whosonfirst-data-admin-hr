@@ -1,0 +1,73 @@
+{
+  "id": 9895029709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23792,43.87164,16.23792,43.87164",
+    "geom:latitude":43.87164,
+    "geom:longitude":16.23792,
+    "gn:population":126,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509462: name \"Par\u010di\u0107\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509462"
+        },
+        {
+            "citation":"GeoNames populated place 12509462: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509462"
+        },
+        {
+            "citation":"GeoNames populated place 12509462: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509462"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684755 (\u0160ibensko-kninska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684755,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509462
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b5c4de2179f9ce0181550e5a0d73dc8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029709,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":9895029709,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Par\u010di\u0107",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23792,
+    43.87164,
+    16.23792,
+    43.87164
+],
+  "geometry": {"coordinates":[16.23792,43.87164],"type":"Point"}
+}

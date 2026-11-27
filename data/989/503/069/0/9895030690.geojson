@@ -1,0 +1,73 @@
+{
+  "id": 9895030690,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.28099,45.30603,17.28099,45.30603",
+    "geom:latitude":45.30603,
+    "geom:longitude":17.28099,
+    "gn:population":5,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510651: name \"\u0160agovina Ma\u0161i\u0107ka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510651"
+        },
+        {
+            "citation":"GeoNames populated place 12510651: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510651"
+        },
+        {
+            "citation":"GeoNames populated place 12510651: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510651"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684749 (Brodsko-posavska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684749,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510651
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"9a64246232401122a3796a389329d951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030690,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":9895030690,
+    "wof:lastmodified":1795734984,
+    "wof:name":"\u0160agovina Ma\u0161i\u0107ka",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.28099,
+    45.30603,
+    17.28099,
+    45.30603
+],
+  "geometry": {"coordinates":[17.28099,45.30603],"type":"Point"}
+}

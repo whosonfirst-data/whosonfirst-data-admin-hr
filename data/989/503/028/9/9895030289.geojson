@@ -1,0 +1,73 @@
+{
+  "id": 9895030289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08591,45.38725,15.08591,45.38725",
+    "geom:latitude":45.38725,
+    "geom:longitude":15.08591,
+    "gn:population":51,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510197: name \"Hajdine\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510197"
+        },
+        {
+            "citation":"GeoNames populated place 12510197: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510197"
+        },
+        {
+            "citation":"GeoNames populated place 12510197: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510197"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684789 (Primorsko-goranska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684789,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510197
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b0fc622d77bbcf8e38557a30ec9d482c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030289,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":9895030289,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Hajdine",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08591,
+    45.38725,
+    15.08591,
+    45.38725
+],
+  "geometry": {"coordinates":[15.08591,45.38725],"type":"Point"}
+}

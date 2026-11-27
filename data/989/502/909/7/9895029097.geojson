@@ -1,0 +1,72 @@
+{
+  "id": 9895029097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.354,44.861,15.354,44.861",
+    "geom:latitude":44.861,
+    "geom:longitude":15.354,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12276850: name \"\u0106ulumi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12276850"
+        },
+        {
+            "citation":"GeoNames populated place 12276850: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12276850"
+        },
+        {
+            "citation":"GeoNames populated place 12276850: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12276850"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684737 (Licko-senjska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684737,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12276850
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d5831cc11acd2712d851a0dcce3f05e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029097,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":9895029097,
+    "wof:lastmodified":1795734984,
+    "wof:name":"\u0106ulumi",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.354,
+    44.861,
+    15.354,
+    44.861
+],
+  "geometry": {"coordinates":[15.354,44.861],"type":"Point"}
+}

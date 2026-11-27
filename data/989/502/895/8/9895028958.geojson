@@ -1,0 +1,72 @@
+{
+  "id": 9895028958,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79982,44.62481,14.79982,44.62481",
+    "geom:latitude":44.62481,
+    "geom:longitude":14.79982,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12047483: name \"Dra\u017eica\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12047483"
+        },
+        {
+            "citation":"GeoNames populated place 12047483: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12047483"
+        },
+        {
+            "citation":"GeoNames populated place 12047483: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12047483"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684737 (Licko-senjska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684737,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12047483
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"aa8bb1de3a12188328853e82bd793aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895028958,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":9895028958,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Dra\u017eica",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79982,
+    44.62481,
+    14.79982,
+    44.62481
+],
+  "geometry": {"coordinates":[14.79982,44.62481],"type":"Point"}
+}

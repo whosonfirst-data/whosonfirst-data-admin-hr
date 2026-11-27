@@ -1,0 +1,73 @@
+{
+  "id": 9895030230,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.16672,45.66044,17.16672,45.66044",
+    "geom:latitude":45.66044,
+    "geom:longitude":17.16672,
+    "gn:population":57,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510094: name \"Otkopi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510094"
+        },
+        {
+            "citation":"GeoNames populated place 12510094: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510094"
+        },
+        {
+            "citation":"GeoNames populated place 12510094: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510094"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684753 (Bjelovarsko-bilogorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684753,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510094
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f43096fa70c4deae637d2984bf6248ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030230,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":9895030230,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Otkopi",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.16672,
+    45.66044,
+    17.16672,
+    45.66044
+],
+  "geometry": {"coordinates":[17.16672,45.66044],"type":"Point"}
+}

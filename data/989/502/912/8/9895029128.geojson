@@ -1,0 +1,73 @@
+{
+  "id": 9895029128,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.26685,46.21473,16.26685,46.21473",
+    "geom:latitude":46.21473,
+    "geom:longitude":16.26685,
+    "gn:population":779,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12500954: name \"Zavr\u0161je Podbelsko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12500954"
+        },
+        {
+            "citation":"GeoNames populated place 12500954: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12500954"
+        },
+        {
+            "citation":"GeoNames populated place 12500954: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12500954"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684835 (Vara\u017edinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684835,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12500954
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"194ea8ee6e36c3aed3a7b79df54317ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029128,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":9895029128,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Zavr\u0161je Podbelsko",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26685,
+    46.21473,
+    16.26685,
+    46.21473
+],
+  "geometry": {"coordinates":[16.26685,46.21473],"type":"Point"}
+}

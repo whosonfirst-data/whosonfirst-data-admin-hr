@@ -1,0 +1,73 @@
+{
+  "id": 9895030096,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.8651,45.43754,14.8651,45.43754",
+    "geom:latitude":45.43754,
+    "geom:longitude":14.8651,
+    "gn:population":5,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509931: name \"Rado\u010daj Brodski\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509931"
+        },
+        {
+            "citation":"GeoNames populated place 12509931: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509931"
+        },
+        {
+            "citation":"GeoNames populated place 12509931: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509931"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684789 (Primorsko-goranska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684789,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509931
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a82f4dfb585439d15f75aa828f3a6a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030096,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":9895030096,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Rado\u010daj Brodski",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.8651,
+    45.43754,
+    14.8651,
+    45.43754
+],
+  "geometry": {"coordinates":[14.8651,45.43754],"type":"Point"}
+}

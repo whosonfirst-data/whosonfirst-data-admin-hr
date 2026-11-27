@@ -1,0 +1,73 @@
+{
+  "id": 9895029032,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33655,46.47194,16.33655,46.47194",
+    "geom:latitude":46.47194,
+    "geom:longitude":16.33655,
+    "gn:population":224,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12200412: name \"Prekopa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12200412"
+        },
+        {
+            "citation":"GeoNames populated place 12200412: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12200412"
+        },
+        {
+            "citation":"GeoNames populated place 12200412: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12200412"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684823 (Medimurska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684823,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12200412
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"09e053e0ec13563ca895e70bb9134f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029032,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":9895029032,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Prekopa",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33655,
+    46.47194,
+    16.33655,
+    46.47194
+],
+  "geometry": {"coordinates":[16.33655,46.47194],"type":"Point"}
+}

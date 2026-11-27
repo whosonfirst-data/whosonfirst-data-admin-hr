@@ -1,0 +1,73 @@
+{
+  "id": 9895030500,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26904,45.46028,15.26904,45.46028",
+    "geom:latitude":45.46028,
+    "geom:longitude":15.26904,
+    "gn:population":24,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510433: name \"Jan\u010dani\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510433"
+        },
+        {
+            "citation":"GeoNames populated place 12510433: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510433"
+        },
+        {
+            "citation":"GeoNames populated place 12510433: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510433"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684819 (Karlovacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684819,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510433
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ddc466180748c0161fb9911a0c55ef9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030500,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":9895030500,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Jan\u010dani",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26904,
+    45.46028,
+    15.26904,
+    45.46028
+],
+  "geometry": {"coordinates":[15.26904,45.46028],"type":"Point"}
+}

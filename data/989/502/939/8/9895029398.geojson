@@ -1,0 +1,73 @@
+{
+  "id": 9895029398,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.86244,45.12916,13.86244,45.12916",
+    "geom:latitude":45.12916,
+    "geom:longitude":13.86244,
+    "gn:population":113,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509023: name \"Debeljuhi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509023"
+        },
+        {
+            "citation":"GeoNames populated place 12509023: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509023"
+        },
+        {
+            "citation":"GeoNames populated place 12509023: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509023"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684829 (Istarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684829,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509023
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"01036ad000e7f9f084a90a9d9dd21a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029398,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":9895029398,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Debeljuhi",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.86244,
+    45.12916,
+    13.86244,
+    45.12916
+],
+  "geometry": {"coordinates":[13.86244,45.12916],"type":"Point"}
+}

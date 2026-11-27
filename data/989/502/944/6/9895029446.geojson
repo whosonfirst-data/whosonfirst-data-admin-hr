@@ -1,0 +1,73 @@
+{
+  "id": 9895029446,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.19354,45.44735,16.19354,45.44735",
+    "geom:latitude":45.44735,
+    "geom:longitude":16.19354,
+    "gn:population":23,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509106: name \"Srednje Mokrice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509106"
+        },
+        {
+            "citation":"GeoNames populated place 12509106: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509106"
+        },
+        {
+            "citation":"GeoNames populated place 12509106: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509106"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684769 (Sisacko-moslavacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684769,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509106
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4f5a35c3fa689dffb5f315d12dd6a684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029446,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":9895029446,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Srednje Mokrice",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.19354,
+    45.44735,
+    16.19354,
+    45.44735
+],
+  "geometry": {"coordinates":[16.19354,45.44735],"type":"Point"}
+}

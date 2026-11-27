@@ -1,0 +1,73 @@
+{
+  "id": 9895030111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62311,46.1511,15.62311,46.1511",
+    "geom:latitude":46.1511,
+    "geom:longitude":15.62311,
+    "gn:population":12,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509946: name \"Stara Ves Ko\u0161ni\u010dka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509946"
+        },
+        {
+            "citation":"GeoNames populated place 12509946: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509946"
+        },
+        {
+            "citation":"GeoNames populated place 12509946: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509946"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684813 (Krapinsko-zagorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684813,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509946
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0dcf26aef91df25fedba72a23235254f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030111,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":9895030111,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Stara Ves Ko\u0161ni\u010dka",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62311,
+    46.1511,
+    15.62311,
+    46.1511
+],
+  "geometry": {"coordinates":[15.62311,46.1511],"type":"Point"}
+}

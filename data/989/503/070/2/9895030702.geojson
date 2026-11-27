@@ -1,0 +1,73 @@
+{
+  "id": 9895030702,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68828,45.82998,15.68828,45.82998",
+    "geom:latitude":45.82998,
+    "geom:longitude":15.68828,
+    "gn:population":264,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12514106: name \"Velika Jazbina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12514106"
+        },
+        {
+            "citation":"GeoNames populated place 12514106: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12514106"
+        },
+        {
+            "citation":"GeoNames populated place 12514106: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12514106"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12514106
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4816a15b25f8f019edb3147a9de377b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030702,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895030702,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Velika Jazbina",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68828,
+    45.82998,
+    15.68828,
+    45.82998
+],
+  "geometry": {"coordinates":[15.68828,45.82998],"type":"Point"}
+}

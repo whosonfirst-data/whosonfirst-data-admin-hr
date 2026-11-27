@@ -1,0 +1,73 @@
+{
+  "id": 9895029044,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3505,46.45386,16.3505,46.45386",
+    "geom:latitude":46.45386,
+    "geom:longitude":16.3505,
+    "gn:population":351,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12205061: name \"Dragoslavec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12205061"
+        },
+        {
+            "citation":"GeoNames populated place 12205061: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12205061"
+        },
+        {
+            "citation":"GeoNames populated place 12205061: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12205061"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684823 (Medimurska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684823,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12205061
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"def5dcad0c656a4cafa7afdce37019dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029044,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":9895029044,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Dragoslavec",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3505,
+    46.45386,
+    16.3505,
+    46.45386
+],
+  "geometry": {"coordinates":[16.3505,46.45386],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895030663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.92211,45.75911,17.92211,45.75911",
+    "geom:latitude":45.75911,
+    "geom:longitude":17.92211,
+    "gn:population":24,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510616: name \"Gezinci\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510616"
+        },
+        {
+            "citation":"GeoNames populated place 12510616: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510616"
+        },
+        {
+            "citation":"GeoNames populated place 12510616: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510616"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684805 (Osjecko-baranjska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684805,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510616
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a73a0bc2b61ab9846ec1b98b7f053c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030663,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":9895030663,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Gezinci",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.92211,
+    45.75911,
+    17.92211,
+    45.75911
+],
+  "geometry": {"coordinates":[17.92211,45.75911],"type":"Point"}
+}

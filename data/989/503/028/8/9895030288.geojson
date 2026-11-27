@@ -1,0 +1,73 @@
+{
+  "id": 9895030288,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12419,45.32768,15.12419,45.32768",
+    "geom:latitude":45.32768,
+    "geom:longitude":15.12419,
+    "gn:population":9,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510196: name \"Majer\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510196"
+        },
+        {
+            "citation":"GeoNames populated place 12510196: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510196"
+        },
+        {
+            "citation":"GeoNames populated place 12510196: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510196"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684789 (Primorsko-goranska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684789,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510196
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0f286050087e162d98b958b7949d80cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030288,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":9895030288,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Majer",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12419,
+    45.32768,
+    15.12419,
+    45.32768
+],
+  "geometry": {"coordinates":[15.12419,45.32768],"type":"Point"}
+}

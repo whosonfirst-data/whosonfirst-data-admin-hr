@@ -1,0 +1,73 @@
+{
+  "id": 9895029789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6087,46.05435,16.6087,46.05435",
+    "geom:latitude":46.05435,
+    "geom:longitude":16.6087,
+    "gn:population":54,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509561: name \"Mi\u010dijevac\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509561"
+        },
+        {
+            "citation":"GeoNames populated place 12509561: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509561"
+        },
+        {
+            "citation":"GeoNames populated place 12509561: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509561"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684799 (Koprivnicko-kri\u017eevacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684799,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509561
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3b266ead02d56ff843fe64e93d70510b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029789,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":9895029789,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Mi\u010dijevac",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6087,
+    46.05435,
+    16.6087,
+    46.05435
+],
+  "geometry": {"coordinates":[16.6087,46.05435],"type":"Point"}
+}

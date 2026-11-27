@@ -1,0 +1,73 @@
+{
+  "id": 9895029584,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.89576,46.17699,15.89576,46.17699",
+    "geom:latitude":46.17699,
+    "geom:longitude":15.89576,
+    "gn:population":46,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509305: name \"Strahinje Radobojsko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509305"
+        },
+        {
+            "citation":"GeoNames populated place 12509305: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509305"
+        },
+        {
+            "citation":"GeoNames populated place 12509305: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509305"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684813 (Krapinsko-zagorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684813,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509305
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"cebf79a4aa6f4ecfcd9c4860a54887e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029584,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":9895029584,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Strahinje Radobojsko",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.89576,
+    46.17699,
+    15.89576,
+    46.17699
+],
+  "geometry": {"coordinates":[15.89576,46.17699],"type":"Point"}
+}

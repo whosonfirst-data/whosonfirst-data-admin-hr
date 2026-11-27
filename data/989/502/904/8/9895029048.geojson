@@ -1,0 +1,73 @@
+{
+  "id": 9895029048,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28961,46.44968,16.28961,46.44968",
+    "geom:latitude":46.44968,
+    "geom:longitude":16.28961,
+    "gn:population":110,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12205086: name \"Martinu\u0161evec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12205086"
+        },
+        {
+            "citation":"GeoNames populated place 12205086: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12205086"
+        },
+        {
+            "citation":"GeoNames populated place 12205086: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12205086"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684823 (Medimurska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684823,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12205086
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"85e8b6cd91c47fcbaa476c897096ff7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029048,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":9895029048,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Martinu\u0161evec",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.28961,
+    46.44968,
+    16.28961,
+    46.44968
+],
+  "geometry": {"coordinates":[16.28961,46.44968],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895030151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93541,46.21074,15.93541,46.21074",
+    "geom:latitude":46.21074,
+    "geom:longitude":15.93541,
+    "gn:population":148,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509986: name \"Cerje Jesenjsko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509986"
+        },
+        {
+            "citation":"GeoNames populated place 12509986: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509986"
+        },
+        {
+            "citation":"GeoNames populated place 12509986: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509986"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684813 (Krapinsko-zagorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684813,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509986
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e5c5084a6e2fedb64f255de242cd3460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030151,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":9895030151,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Cerje Jesenjsko",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93541,
+    46.21074,
+    15.93541,
+    46.21074
+],
+  "geometry": {"coordinates":[15.93541,46.21074],"type":"Point"}
+}

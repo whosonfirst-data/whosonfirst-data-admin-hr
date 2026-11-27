@@ -1,0 +1,73 @@
+{
+  "id": 9895029476,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.60488,45.48644,15.60488,45.48644",
+    "geom:latitude":45.48644,
+    "geom:longitude":15.60488,
+    "gn:population":153,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509152: name \"Husje\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509152"
+        },
+        {
+            "citation":"GeoNames populated place 12509152: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509152"
+        },
+        {
+            "citation":"GeoNames populated place 12509152: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509152"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684819 (Karlovacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684819,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509152
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2b9a62441f34a993e376650904f322ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029476,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":9895029476,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Husje",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.60488,
+    45.48644,
+    15.60488,
+    45.48644
+],
+  "geometry": {"coordinates":[15.60488,45.48644],"type":"Point"}
+}

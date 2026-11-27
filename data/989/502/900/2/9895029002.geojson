@@ -1,0 +1,72 @@
+{
+  "id": 9895029002,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.99055,43.51824,15.99055,43.51824",
+    "geom:latitude":43.51824,
+    "geom:longitude":15.99055,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12047533: name \"Kalebova Luka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12047533"
+        },
+        {
+            "citation":"GeoNames populated place 12047533: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12047533"
+        },
+        {
+            "citation":"GeoNames populated place 12047533: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12047533"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684755 (\u0160ibensko-kninska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684755,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12047533
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2481de3af4d9e127914721fd7554c921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029002,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":9895029002,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Kalebova Luka",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.99055,
+    43.51824,
+    15.99055,
+    43.51824
+],
+  "geometry": {"coordinates":[15.99055,43.51824],"type":"Point"}
+}

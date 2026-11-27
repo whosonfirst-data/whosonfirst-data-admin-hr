@@ -1,0 +1,73 @@
+{
+  "id": 9895029675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.67305,45.72724,15.67305,45.72724",
+    "geom:latitude":45.72724,
+    "geom:longitude":15.67305,
+    "gn:population":94,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509428: name \"Vla\u0161kovec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509428"
+        },
+        {
+            "citation":"GeoNames populated place 12509428: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509428"
+        },
+        {
+            "citation":"GeoNames populated place 12509428: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509428"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509428
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d532e29f43ae2c481b3f68097e426ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029675,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895029675,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Vla\u0161kovec",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.67305,
+    45.72724,
+    15.67305,
+    45.72724
+],
+  "geometry": {"coordinates":[15.67305,45.72724],"type":"Point"}
+}

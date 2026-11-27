@@ -1,0 +1,73 @@
+{
+  "id": 9895029125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69852,45.82744,15.69852,45.82744",
+    "geom:latitude":45.82744,
+    "geom:longitude":15.69852,
+    "gn:population":937,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12500948: name \"Lug Samoborski\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12500948"
+        },
+        {
+            "citation":"GeoNames populated place 12500948: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12500948"
+        },
+        {
+            "citation":"GeoNames populated place 12500948: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12500948"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12500948
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"00594b78cba984ffd122fd4ce466f2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029125,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895029125,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Lug Samoborski",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69852,
+    45.82744,
+    15.69852,
+    45.82744
+],
+  "geometry": {"coordinates":[15.69852,45.82744],"type":"Point"}
+}

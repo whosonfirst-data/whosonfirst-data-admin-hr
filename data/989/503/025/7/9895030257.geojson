@@ -1,0 +1,73 @@
+{
+  "id": 9895030257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.80638,45.9477,16.80638,45.9477",
+    "geom:latitude":45.9477,
+    "geom:longitude":16.80638,
+    "gn:population":93,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510163: name \"Prekobrdo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510163"
+        },
+        {
+            "citation":"GeoNames populated place 12510163: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510163"
+        },
+        {
+            "citation":"GeoNames populated place 12510163: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510163"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684753 (Bjelovarsko-bilogorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684753,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510163
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"70ee469fbf0650ff1b0b1eef52d3bf29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030257,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":9895030257,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Prekobrdo",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.80638,
+    45.9477,
+    16.80638,
+    45.9477
+],
+  "geometry": {"coordinates":[16.80638,45.9477],"type":"Point"}
+}

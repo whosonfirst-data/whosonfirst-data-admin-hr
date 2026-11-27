@@ -1,0 +1,73 @@
+{
+  "id": 9895030482,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.12491,46.31129,16.12491,46.31129",
+    "geom:latitude":46.31129,
+    "geom:longitude":16.12491,
+    "gn:population":61,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510414: name \"Plitvica Vo\u0107anska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510414"
+        },
+        {
+            "citation":"GeoNames populated place 12510414: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510414"
+        },
+        {
+            "citation":"GeoNames populated place 12510414: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510414"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684835 (Vara\u017edinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684835,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510414
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5aa783b1f20338d49f976028be9899bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030482,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":9895030482,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Plitvica Vo\u0107anska",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.12491,
+    46.31129,
+    16.12491,
+    46.31129
+],
+  "geometry": {"coordinates":[16.12491,46.31129],"type":"Point"}
+}

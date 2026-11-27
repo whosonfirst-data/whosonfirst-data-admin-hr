@@ -1,0 +1,73 @@
+{
+  "id": 9895030242,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.65522,45.25728,15.65522,45.25728",
+    "geom:latitude":45.25728,
+    "geom:longitude":15.65522,
+    "gn:population":14,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510106: name \"Raji\u0107 Brdo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510106"
+        },
+        {
+            "citation":"GeoNames populated place 12510106: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510106"
+        },
+        {
+            "citation":"GeoNames populated place 12510106: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510106"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684819 (Karlovacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684819,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510106
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"320833398615f7cb4e8b0eabe2c78546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030242,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":9895030242,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Raji\u0107 Brdo",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.65522,
+    45.25728,
+    15.65522,
+    45.25728
+],
+  "geometry": {"coordinates":[15.65522,45.25728],"type":"Point"}
+}

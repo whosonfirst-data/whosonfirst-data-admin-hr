@@ -1,0 +1,73 @@
+{
+  "id": 9895029628,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2388,45.89947,16.2388,45.89947",
+    "geom:latitude":45.89947,
+    "geom:longitude":16.2388,
+    "gn:population":84,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509372: name \"Vukovje Zelinsko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509372"
+        },
+        {
+            "citation":"GeoNames populated place 12509372: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509372"
+        },
+        {
+            "citation":"GeoNames populated place 12509372: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509372"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509372
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6f2f1b822f92e6ffad47a40a2c0e692a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029628,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895029628,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Vukovje Zelinsko",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2388,
+    45.89947,
+    16.2388,
+    45.89947
+],
+  "geometry": {"coordinates":[16.2388,45.89947],"type":"Point"}
+}

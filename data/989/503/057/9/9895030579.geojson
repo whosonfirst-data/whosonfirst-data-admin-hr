@@ -1,0 +1,73 @@
+{
+  "id": 9895030579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71527,45.46372,14.71527,45.46372",
+    "geom:latitude":45.46372,
+    "geom:longitude":14.71527,
+    "gn:population":2,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510528: name \"Razlo\u0161ki Okrug\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510528"
+        },
+        {
+            "citation":"GeoNames populated place 12510528: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510528"
+        },
+        {
+            "citation":"GeoNames populated place 12510528: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510528"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684789 (Primorsko-goranska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684789,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510528
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a08b17db09f1d5d6c951068154864142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030579,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":9895030579,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Razlo\u0161ki Okrug",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71527,
+    45.46372,
+    14.71527,
+    45.46372
+],
+  "geometry": {"coordinates":[14.71527,45.46372],"type":"Point"}
+}

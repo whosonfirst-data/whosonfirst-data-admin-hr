@@ -1,0 +1,73 @@
+{
+  "id": 9895030687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61448,45.06704,14.61448,45.06704",
+    "geom:latitude":45.06704,
+    "geom:longitude":14.61448,
+    "gn:population":11,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510648: name \"Kampelje\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510648"
+        },
+        {
+            "citation":"GeoNames populated place 12510648: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510648"
+        },
+        {
+            "citation":"GeoNames populated place 12510648: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510648"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684789 (Primorsko-goranska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684789,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510648
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"af1e140428d2b43962513e9f274edc0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030687,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":9895030687,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Kampelje",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61448,
+    45.06704,
+    14.61448,
+    45.06704
+],
+  "geometry": {"coordinates":[14.61448,45.06704],"type":"Point"}
+}

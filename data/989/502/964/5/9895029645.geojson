@@ -1,0 +1,73 @@
+{
+  "id": 9895029645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47036,45.37219,14.47036,45.37219",
+    "geom:latitude":45.37219,
+    "geom:longitude":14.47036,
+    "gn:population":338,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509397: name \"Zastenice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509397"
+        },
+        {
+            "citation":"GeoNames populated place 12509397: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509397"
+        },
+        {
+            "citation":"GeoNames populated place 12509397: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509397"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684789 (Primorsko-goranska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684789,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509397
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"50b13af0a01590747ca66f3543ad8c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029645,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":9895029645,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Zastenice",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47036,
+    45.37219,
+    14.47036,
+    45.37219
+],
+  "geometry": {"coordinates":[14.47036,45.37219],"type":"Point"}
+}

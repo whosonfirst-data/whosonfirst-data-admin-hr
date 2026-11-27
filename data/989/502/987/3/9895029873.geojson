@@ -1,0 +1,73 @@
+{
+  "id": 9895029873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.41609,46.07105,16.41609,46.07105",
+    "geom:latitude":46.07105,
+    "geom:longitude":16.41609,
+    "gn:population":45,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509650: name \"Podvinje Mihole\u010dko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509650"
+        },
+        {
+            "citation":"GeoNames populated place 12509650: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509650"
+        },
+        {
+            "citation":"GeoNames populated place 12509650: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509650"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684799 (Koprivnicko-kri\u017eevacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684799,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509650
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"706efb83713ff26562564a303eac482b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029873,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":9895029873,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Podvinje Mihole\u010dko",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.41609,
+    46.07105,
+    16.41609,
+    46.07105
+],
+  "geometry": {"coordinates":[16.41609,46.07105],"type":"Point"}
+}

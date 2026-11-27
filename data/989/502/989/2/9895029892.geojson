@@ -1,0 +1,73 @@
+{
+  "id": 9895029892,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51158,45.70714,15.51158,45.70714",
+    "geom:latitude":45.70714,
+    "geom:longitude":15.51158,
+    "gn:population":11,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509718: name \"Rude Pribi\u0107ke\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509718"
+        },
+        {
+            "citation":"GeoNames populated place 12509718: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509718"
+        },
+        {
+            "citation":"GeoNames populated place 12509718: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509718"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509718
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5e96dcd247b01ba148bf32fd950d6149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029892,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895029892,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Rude Pribi\u0107ke",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51158,
+    45.70714,
+    15.51158,
+    45.70714
+],
+  "geometry": {"coordinates":[15.51158,45.70714],"type":"Point"}
+}

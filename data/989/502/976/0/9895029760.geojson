@@ -1,0 +1,73 @@
+{
+  "id": 9895029760,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8114,46.15589,15.8114,46.15589",
+    "geom:latitude":46.15589,
+    "geom:longitude":15.8114,
+    "gn:population":315,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509530: name \"Slatina Svedru\u0161ka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509530"
+        },
+        {
+            "citation":"GeoNames populated place 12509530: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509530"
+        },
+        {
+            "citation":"GeoNames populated place 12509530: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509530"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684813 (Krapinsko-zagorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684813,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509530
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e99b9e84d6117e1d342bb1859350b0b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029760,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":9895029760,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Slatina Svedru\u0161ka",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8114,
+    46.15589,
+    15.8114,
+    46.15589
+],
+  "geometry": {"coordinates":[15.8114,46.15589],"type":"Point"}
+}

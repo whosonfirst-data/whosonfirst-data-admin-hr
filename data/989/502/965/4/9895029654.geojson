@@ -1,0 +1,73 @@
+{
+  "id": 9895029654,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64794,45.69287,15.64794,45.69287",
+    "geom:latitude":45.69287,
+    "geom:longitude":15.64794,
+    "gn:population":327,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509406: name \"Donja Reka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509406"
+        },
+        {
+            "citation":"GeoNames populated place 12509406: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509406"
+        },
+        {
+            "citation":"GeoNames populated place 12509406: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509406"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509406
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a105ba447591cfaa0c10d480c5f93f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029654,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895029654,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Donja Reka",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64794,
+    45.69287,
+    15.64794,
+    45.69287
+],
+  "geometry": {"coordinates":[15.64794,45.69287],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895030401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36864,43.94218,15.36864,43.94218",
+    "geom:latitude":43.94218,
+    "geom:longitude":15.36864,
+    "gn:population":83,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510313: name \"Barotul\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510313"
+        },
+        {
+            "citation":"GeoNames populated place 12510313: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510313"
+        },
+        {
+            "citation":"GeoNames populated place 12510313: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510313"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684807 (Zadarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684807,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510313
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ce50660fbe86c1772084fc17bcafa50a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030401,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":9895030401,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Barotul",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36864,
+    43.94218,
+    15.36864,
+    43.94218
+],
+  "geometry": {"coordinates":[15.36864,43.94218],"type":"Point"}
+}

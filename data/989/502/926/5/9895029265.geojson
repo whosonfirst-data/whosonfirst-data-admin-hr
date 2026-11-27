@@ -1,0 +1,73 @@
+{
+  "id": 9895029265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17257,46.20326,16.17257,46.20326",
+    "geom:latitude":46.20326,
+    "geom:longitude":16.17257,
+    "gn:population":211,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12508829: name \"Ivane\u010dka \u017deljeznica\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12508829"
+        },
+        {
+            "citation":"GeoNames populated place 12508829: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12508829"
+        },
+        {
+            "citation":"GeoNames populated place 12508829: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12508829"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684835 (Vara\u017edinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684835,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12508829
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fde5119a457eb86664e67ef380d9d424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029265,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":9895029265,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Ivane\u010dka \u017deljeznica",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17257,
+    46.20326,
+    16.17257,
+    46.20326
+],
+  "geometry": {"coordinates":[16.17257,46.20326],"type":"Point"}
+}

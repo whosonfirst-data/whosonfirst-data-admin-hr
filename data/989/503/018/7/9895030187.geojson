@@ -1,0 +1,73 @@
+{
+  "id": 9895030187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.29489,45.60932,17.29489,45.60932",
+    "geom:latitude":45.60932,
+    "geom:longitude":17.29489,
+    "gn:population":16,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510048: name \"Dobra Ku\u0107a\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510048"
+        },
+        {
+            "citation":"GeoNames populated place 12510048: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510048"
+        },
+        {
+            "citation":"GeoNames populated place 12510048: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510048"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684753 (Bjelovarsko-bilogorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684753,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510048
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"542aee76bf3b4df9e1ba2bc8d522867a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030187,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":9895030187,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Dobra Ku\u0107a",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.29489,
+    45.60932,
+    17.29489,
+    45.60932
+],
+  "geometry": {"coordinates":[17.29489,45.60932],"type":"Point"}
+}

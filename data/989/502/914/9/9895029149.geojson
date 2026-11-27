@@ -1,0 +1,73 @@
+{
+  "id": 9895029149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.40914,45.36965,18.40914,45.36965",
+    "geom:latitude":45.36965,
+    "geom:longitude":18.40914,
+    "gn:population":503,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12500980: name \"Ivanovci \u0110akova\u010dki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12500980"
+        },
+        {
+            "citation":"GeoNames populated place 12500980: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12500980"
+        },
+        {
+            "citation":"GeoNames populated place 12500980: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12500980"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684805 (Osjecko-baranjska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684805,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12500980
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"540dc5aa6a1b9da4bd9cf05a8a7c6c56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029149,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":9895029149,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Ivanovci \u0110akova\u010dki",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40914,
+    45.36965,
+    18.40914,
+    45.36965
+],
+  "geometry": {"coordinates":[18.40914,45.36965],"type":"Point"}
+}

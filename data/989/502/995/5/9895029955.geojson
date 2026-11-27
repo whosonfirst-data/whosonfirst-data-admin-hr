@@ -1,0 +1,73 @@
+{
+  "id": 9895029955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.42153,45.89062,17.42153,45.89062",
+    "geom:latitude":45.89062,
+    "geom:longitude":17.42153,
+    "gn:population":204,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509783: name \"Kapela Dvor\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509783"
+        },
+        {
+            "citation":"GeoNames populated place 12509783: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509783"
+        },
+        {
+            "citation":"GeoNames populated place 12509783: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509783"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684793 (Viroviticko-podravska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684793,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509783
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f2ad8f3b903f6bd5fb0d13413dcd3867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029955,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":9895029955,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Kapela Dvor",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.42153,
+    45.89062,
+    17.42153,
+    45.89062
+],
+  "geometry": {"coordinates":[17.42153,45.89062],"type":"Point"}
+}

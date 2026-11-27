@@ -1,0 +1,73 @@
+{
+  "id": 9895030666,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.05333,45.39007,18.05333,45.39007",
+    "geom:latitude":45.39007,
+    "geom:longitude":18.05333,
+    "gn:population":7,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510620: name \"Jezero\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510620"
+        },
+        {
+            "citation":"GeoNames populated place 12510620: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510620"
+        },
+        {
+            "citation":"GeoNames populated place 12510620: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510620"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684763 (Po\u017ee\u0161ko-slavonska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684763,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510620
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"601339f4e0c68514554f1ee7f4db2e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030666,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":9895030666,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Jezero",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05333,
+    45.39007,
+    18.05333,
+    45.39007
+],
+  "geometry": {"coordinates":[18.05333,45.39007],"type":"Point"}
+}

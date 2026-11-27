@@ -1,0 +1,73 @@
+{
+  "id": 9895029080,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.15403,45.86424,16.15403,45.86424",
+    "geom:latitude":45.86424,
+    "geom:longitude":16.15403,
+    "gn:population":970,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12214040: name \"Soblinec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12214040"
+        },
+        {
+            "citation":"GeoNames populated place 12214040: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12214040"
+        },
+        {
+            "citation":"GeoNames populated place 12214040: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12214040"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684811 (Grad Zagreb), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684811,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12214040
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"eb2c839ff6190977e5db7a9fc70dd3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029080,
+            "region_id":85684811
+        }
+    ],
+    "wof:id":9895029080,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Soblinec",
+    "wof:parent_id":85684811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.15403,
+    45.86424,
+    16.15403,
+    45.86424
+],
+  "geometry": {"coordinates":[16.15403,45.86424],"type":"Point"}
+}

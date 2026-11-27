@@ -1,0 +1,73 @@
+{
+  "id": 9895030688,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.20403,45.35457,17.20403,45.35457",
+    "geom:latitude":45.35457,
+    "geom:longitude":17.20403,
+    "gn:population":10,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510649: name \"Lje\u0161tani\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510649"
+        },
+        {
+            "citation":"GeoNames populated place 12510649: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510649"
+        },
+        {
+            "citation":"GeoNames populated place 12510649: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510649"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684749 (Brodsko-posavska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684749,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510649
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e297ba64ff38b74544a85ff85ae9b6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030688,
+            "region_id":85684749
+        }
+    ],
+    "wof:id":9895030688,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Lje\u0161tani",
+    "wof:parent_id":85684749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.20403,
+    45.35457,
+    17.20403,
+    45.35457
+],
+  "geometry": {"coordinates":[17.20403,45.35457],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895029349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.06632,45.04142,14.06632,45.04142",
+    "geom:latitude":45.04142,
+    "geom:longitude":14.06632,
+    "gn:population":174,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12508961: name \"Brgod\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12508961"
+        },
+        {
+            "citation":"GeoNames populated place 12508961: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12508961"
+        },
+        {
+            "citation":"GeoNames populated place 12508961: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12508961"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684829 (Istarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684829,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12508961
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6ddf446544f676080fadbac04f1247b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029349,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":9895029349,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Brgod",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.06632,
+    45.04142,
+    14.06632,
+    45.04142
+],
+  "geometry": {"coordinates":[14.06632,45.04142],"type":"Point"}
+}

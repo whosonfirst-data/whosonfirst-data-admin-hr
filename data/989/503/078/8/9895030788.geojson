@@ -1,0 +1,73 @@
+{
+  "id": 9895030788,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.53729,43.50365,16.53729,43.50365",
+    "geom:latitude":43.50365,
+    "geom:longitude":16.53729,
+    "gn:population":2130,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12514312: name \"Podstrana - Sita\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12514312"
+        },
+        {
+            "citation":"GeoNames populated place 12514312: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12514312"
+        },
+        {
+            "citation":"GeoNames populated place 12514312: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12514312"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684781 (Splitsko-dalmatinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684781,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12514312
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c3434931243c9951d5712ed274de4010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030788,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":9895030788,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Podstrana - Sita",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53729,
+    43.50365,
+    16.53729,
+    43.50365
+],
+  "geometry": {"coordinates":[16.53729,43.50365],"type":"Point"}
+}

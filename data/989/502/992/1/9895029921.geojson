@@ -1,0 +1,73 @@
+{
+  "id": 9895029921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.10214,45.72821,18.10214,45.72821",
+    "geom:latitude":45.72821,
+    "geom:longitude":18.10214,
+    "gn:population":224,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509749: name \"Ivanovo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509749"
+        },
+        {
+            "citation":"GeoNames populated place 12509749: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509749"
+        },
+        {
+            "citation":"GeoNames populated place 12509749: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509749"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684805 (Osjecko-baranjska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684805,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509749
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0a8c51cb0cd63142d2331b0742e461da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029921,
+            "region_id":85684805
+        }
+    ],
+    "wof:id":9895029921,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Ivanovo",
+    "wof:parent_id":85684805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.10214,
+    45.72821,
+    18.10214,
+    45.72821
+],
+  "geometry": {"coordinates":[18.10214,45.72821],"type":"Point"}
+}

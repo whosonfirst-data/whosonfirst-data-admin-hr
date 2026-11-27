@@ -1,0 +1,73 @@
+{
+  "id": 9895030081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33585,45.15713,15.33585,45.15713",
+    "geom:latitude":45.15713,
+    "geom:longitude":15.33585,
+    "gn:population":17,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509913: name \"Vajin Vrh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509913"
+        },
+        {
+            "citation":"GeoNames populated place 12509913: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509913"
+        },
+        {
+            "citation":"GeoNames populated place 12509913: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509913"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684819 (Karlovacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684819,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509913
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"35abafd08f23be67b6dd18566e02e1f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030081,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":9895030081,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Vajin Vrh",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33585,
+    45.15713,
+    15.33585,
+    45.15713
+],
+  "geometry": {"coordinates":[15.33585,45.15713],"type":"Point"}
+}

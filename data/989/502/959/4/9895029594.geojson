@@ -1,0 +1,73 @@
+{
+  "id": 9895029594,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.72976,45.71394,15.72976,45.71394",
+    "geom:latitude":45.71394,
+    "geom:longitude":15.72976,
+    "gn:population":101,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509315: name \"Tr\u017ei\u0107\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509315"
+        },
+        {
+            "citation":"GeoNames populated place 12509315: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509315"
+        },
+        {
+            "citation":"GeoNames populated place 12509315: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509315"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509315
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"79313ec35c5eadf02a8196bcbba6140b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029594,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895029594,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Tr\u017ei\u0107",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.72976,
+    45.71394,
+    15.72976,
+    45.71394
+],
+  "geometry": {"coordinates":[15.72976,45.71394],"type":"Point"}
+}

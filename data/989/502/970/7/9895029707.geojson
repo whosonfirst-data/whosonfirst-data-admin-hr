@@ -1,0 +1,73 @@
+{
+  "id": 9895029707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7332,46.01013,15.7332,46.01013",
+    "geom:latitude":46.01013,
+    "geom:longitude":15.7332,
+    "gn:population":30,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509460: name \"Bratovski Vrh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509460"
+        },
+        {
+            "citation":"GeoNames populated place 12509460: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509460"
+        },
+        {
+            "citation":"GeoNames populated place 12509460: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509460"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684813 (Krapinsko-zagorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684813,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509460
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8f0e6311fbfe4ba82f525ef97ffce481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029707,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":9895029707,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Bratovski Vrh",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7332,
+    46.01013,
+    15.7332,
+    46.01013
+],
+  "geometry": {"coordinates":[15.7332,46.01013],"type":"Point"}
+}

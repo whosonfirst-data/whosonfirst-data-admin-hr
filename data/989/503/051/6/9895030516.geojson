@@ -1,0 +1,73 @@
+{
+  "id": 9895030516,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.74107,45.34106,13.74107,45.34106",
+    "geom:latitude":45.34106,
+    "geom:longitude":13.74107,
+    "gn:population":8,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510458: name \"Vrbani\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510458"
+        },
+        {
+            "citation":"GeoNames populated place 12510458: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510458"
+        },
+        {
+            "citation":"GeoNames populated place 12510458: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510458"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684829 (Istarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684829,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510458
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bc4434e21e0b985a2186150a21cad1a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030516,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":9895030516,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Vrbani",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.74107,
+    45.34106,
+    13.74107,
+    45.34106
+],
+  "geometry": {"coordinates":[13.74107,45.34106],"type":"Point"}
+}

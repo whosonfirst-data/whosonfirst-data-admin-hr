@@ -1,0 +1,73 @@
+{
+  "id": 9895029835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.48049,45.73579,17.48049,45.73579",
+    "geom:latitude":45.73579,
+    "geom:longitude":17.48049,
+    "gn:population":37,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509610: name \"Rodin Potok\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509610"
+        },
+        {
+            "citation":"GeoNames populated place 12509610: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509610"
+        },
+        {
+            "citation":"GeoNames populated place 12509610: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509610"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684793 (Viroviticko-podravska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684793,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509610
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"4228e9d29dcaf53a6c01e4f220d45d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029835,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":9895029835,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Rodin Potok",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.48049,
+    45.73579,
+    17.48049,
+    45.73579
+],
+  "geometry": {"coordinates":[17.48049,45.73579],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895030203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11814,44.90745,15.11814,44.90745",
+    "geom:latitude":44.90745,
+    "geom:longitude":15.11814,
+    "gn:population":126,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510066: name \"Hrvatsko Polje\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510066"
+        },
+        {
+            "citation":"GeoNames populated place 12510066: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510066"
+        },
+        {
+            "citation":"GeoNames populated place 12510066: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510066"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684737 (Licko-senjska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684737,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510066
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"95903cf0f4b9295e4d143bbc9ae729eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030203,
+            "region_id":85684737
+        }
+    ],
+    "wof:id":9895030203,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Hrvatsko Polje",
+    "wof:parent_id":85684737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11814,
+    44.90745,
+    15.11814,
+    44.90745
+],
+  "geometry": {"coordinates":[15.11814,44.90745],"type":"Point"}
+}

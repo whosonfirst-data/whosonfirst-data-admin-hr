@@ -1,0 +1,73 @@
+{
+  "id": 9895029642,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73474,45.93866,15.73474,45.93866",
+    "geom:latitude":45.93866,
+    "geom:longitude":15.73474,
+    "gn:population":71,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509394: name \"Pologi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509394"
+        },
+        {
+            "citation":"GeoNames populated place 12509394: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509394"
+        },
+        {
+            "citation":"GeoNames populated place 12509394: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509394"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509394
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d35ff1a662d34109b2c292fe14401be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029642,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895029642,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Pologi",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73474,
+    45.93866,
+    15.73474,
+    45.93866
+],
+  "geometry": {"coordinates":[15.73474,45.93866],"type":"Point"}
+}

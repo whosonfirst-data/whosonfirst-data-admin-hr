@@ -1,0 +1,73 @@
+{
+  "id": 9895030627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38445,45.69234,15.38445,45.69234",
+    "geom:latitude":45.69234,
+    "geom:longitude":15.38445,
+    "gn:population":28,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510576: name \"Dojutrovica\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510576"
+        },
+        {
+            "citation":"GeoNames populated place 12510576: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510576"
+        },
+        {
+            "citation":"GeoNames populated place 12510576: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510576"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684819 (Karlovacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684819,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510576
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ba0182e20205543bd676c59c7137cdc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030627,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":9895030627,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Dojutrovica",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38445,
+    45.69234,
+    15.38445,
+    45.69234
+],
+  "geometry": {"coordinates":[15.38445,45.69234],"type":"Point"}
+}

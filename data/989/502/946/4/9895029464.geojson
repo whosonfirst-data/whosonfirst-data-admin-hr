@@ -1,0 +1,73 @@
+{
+  "id": 9895029464,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.42738,45.39294,16.42738,45.39294",
+    "geom:latitude":45.39294,
+    "geom:longitude":16.42738,
+    "gn:population":18,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509138: name \"Blinjska Greda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509138"
+        },
+        {
+            "citation":"GeoNames populated place 12509138: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509138"
+        },
+        {
+            "citation":"GeoNames populated place 12509138: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509138"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684769 (Sisacko-moslavacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684769,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509138
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a89c6e3efa6e7d43baf9d0e60a7b64ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029464,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":9895029464,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Blinjska Greda",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.42738,
+    45.39294,
+    16.42738,
+    45.39294
+],
+  "geometry": {"coordinates":[16.42738,45.39294],"type":"Point"}
+}

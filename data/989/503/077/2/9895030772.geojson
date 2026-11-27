@@ -1,0 +1,72 @@
+{
+  "id": 9895030772,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89309,43.40289,16.89309,43.40289",
+    "geom:latitude":43.40289,
+    "geom:longitude":16.89309,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12514245: name \"Dubci\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12514245"
+        },
+        {
+            "citation":"GeoNames populated place 12514245: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12514245"
+        },
+        {
+            "citation":"GeoNames populated place 12514245: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12514245"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684781 (Splitsko-dalmatinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684781,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12514245
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"42599884a9f96383ccc495431cfe3ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030772,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":9895030772,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Dubci",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89309,
+    43.40289,
+    16.89309,
+    43.40289
+],
+  "geometry": {"coordinates":[16.89309,43.40289],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895030622,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.40228,45.67446,15.40228,45.67446",
+    "geom:latitude":45.67446,
+    "geom:longitude":15.40228,
+    "gn:population":7,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510571: name \"Vara\u0161tovac\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510571"
+        },
+        {
+            "citation":"GeoNames populated place 12510571: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510571"
+        },
+        {
+            "citation":"GeoNames populated place 12510571: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510571"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684819 (Karlovacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684819,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510571
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"706f0f95018622f239dc343ba4cb07a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030622,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":9895030622,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Vara\u0161tovac",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.40228,
+    45.67446,
+    15.40228,
+    45.67446
+],
+  "geometry": {"coordinates":[15.40228,45.67446],"type":"Point"}
+}

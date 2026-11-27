@@ -1,0 +1,73 @@
+{
+  "id": 9895029485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49735,45.42538,15.49735,45.42538",
+    "geom:latitude":45.42538,
+    "geom:longitude":15.49735,
+    "gn:population":288,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509161: name \"Mre\u017eni\u010dki Brig\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509161"
+        },
+        {
+            "citation":"GeoNames populated place 12509161: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509161"
+        },
+        {
+            "citation":"GeoNames populated place 12509161: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509161"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684819 (Karlovacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684819,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509161
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a1eb6df3d487162e80dfb7eb275ad272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029485,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":9895029485,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Mre\u017eni\u010dki Brig",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49735,
+    45.42538,
+    15.49735,
+    45.42538
+],
+  "geometry": {"coordinates":[15.49735,45.42538],"type":"Point"}
+}

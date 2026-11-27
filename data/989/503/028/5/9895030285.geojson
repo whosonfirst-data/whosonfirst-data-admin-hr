@@ -1,0 +1,73 @@
+{
+  "id": 9895030285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.02662,45.42557,15.02662,45.42557",
+    "geom:latitude":45.42557,
+    "geom:longitude":15.02662,
+    "gn:population":36,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510193: name \"Dokmanovi\u0107i\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510193"
+        },
+        {
+            "citation":"GeoNames populated place 12510193: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510193"
+        },
+        {
+            "citation":"GeoNames populated place 12510193: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510193"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684789 (Primorsko-goranska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684789,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510193
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fd689a9fdd49d1e354416dd4fec22b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030285,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":9895030285,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Dokmanovi\u0107i",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.02662,
+    45.42557,
+    15.02662,
+    45.42557
+],
+  "geometry": {"coordinates":[15.02662,45.42557],"type":"Point"}
+}

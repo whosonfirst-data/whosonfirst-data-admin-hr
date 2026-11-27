@@ -1,0 +1,73 @@
+{
+  "id": 9895029435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23542,45.26899,16.23542,45.26899",
+    "geom:latitude":45.26899,
+    "geom:longitude":16.23542,
+    "gn:population":15,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509090: name \"Mom\u010dilovi\u0107a Kosa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509090"
+        },
+        {
+            "citation":"GeoNames populated place 12509090: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509090"
+        },
+        {
+            "citation":"GeoNames populated place 12509090: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509090"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684769 (Sisacko-moslavacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684769,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509090
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f8a805fa2e7416c77851f1d17b8d6fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029435,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":9895029435,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Mom\u010dilovi\u0107a Kosa",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23542,
+    45.26899,
+    16.23542,
+    45.26899
+],
+  "geometry": {"coordinates":[16.23542,45.26899],"type":"Point"}
+}

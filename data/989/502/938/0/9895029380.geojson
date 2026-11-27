@@ -1,0 +1,73 @@
+{
+  "id": 9895029380,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68922,45.35878,13.68922,45.35878",
+    "geom:latitude":45.35878,
+    "geom:longitude":13.68922,
+    "gn:population":27,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509002: name \"Lozari\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509002"
+        },
+        {
+            "citation":"GeoNames populated place 12509002: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509002"
+        },
+        {
+            "citation":"GeoNames populated place 12509002: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509002"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684829 (Istarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684829,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509002
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c2222ecbc8767dd15963236ea8caa35b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029380,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":9895029380,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Lozari",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68922,
+    45.35878,
+    13.68922,
+    45.35878
+],
+  "geometry": {"coordinates":[13.68922,45.35878],"type":"Point"}
+}

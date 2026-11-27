@@ -1,0 +1,73 @@
+{
+  "id": 9895029198,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.43894,44.02587,15.43894,44.02587",
+    "geom:latitude":44.02587,
+    "geom:longitude":15.43894,
+    "gn:population":425,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12508759: name \"Gornje Ra\u0161tane\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12508759"
+        },
+        {
+            "citation":"GeoNames populated place 12508759: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12508759"
+        },
+        {
+            "citation":"GeoNames populated place 12508759: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12508759"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684807 (Zadarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684807,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12508759
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c25ef5c64240d589bfa492938423ea89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029198,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":9895029198,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Gornje Ra\u0161tane",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.43894,
+    44.02587,
+    15.43894,
+    44.02587
+],
+  "geometry": {"coordinates":[15.43894,44.02587],"type":"Point"}
+}

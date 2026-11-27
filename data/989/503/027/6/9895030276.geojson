@@ -1,0 +1,73 @@
+{
+  "id": 9895030276,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.99302,45.42234,14.99302,45.42234",
+    "geom:latitude":45.42234,
+    "geom:longitude":14.99302,
+    "gn:population":13,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510183: name \"Petrovi\u0107i\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510183"
+        },
+        {
+            "citation":"GeoNames populated place 12510183: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510183"
+        },
+        {
+            "citation":"GeoNames populated place 12510183: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510183"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684789 (Primorsko-goranska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684789,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510183
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"43d4de2e6491bff096f6450845c497cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030276,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":9895030276,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Petrovi\u0107i",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.99302,
+    45.42234,
+    14.99302,
+    45.42234
+],
+  "geometry": {"coordinates":[14.99302,45.42234],"type":"Point"}
+}

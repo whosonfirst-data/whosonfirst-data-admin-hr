@@ -1,0 +1,73 @@
+{
+  "id": 9895029071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.47929,45.38267,16.47929,45.38267",
+    "geom:latitude":45.38267,
+    "geom:longitude":16.47929,
+    "gn:population":69,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12212672: name \"Br\u0111ani Kosa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12212672"
+        },
+        {
+            "citation":"GeoNames populated place 12212672: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12212672"
+        },
+        {
+            "citation":"GeoNames populated place 12212672: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12212672"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684769 (Sisacko-moslavacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684769,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12212672
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"51cbe82f441bd43df999ee7f80168d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029071,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":9895029071,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Br\u0111ani Kosa",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.47929,
+    45.38267,
+    16.47929,
+    45.38267
+],
+  "geometry": {"coordinates":[16.47929,45.38267],"type":"Point"}
+}

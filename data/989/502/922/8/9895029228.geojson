@@ -1,0 +1,73 @@
+{
+  "id": 9895029228,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2059,46.33308,16.2059,46.33308",
+    "geom:latitude":46.33308,
+    "geom:longitude":16.2059,
+    "gn:population":124,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12508790: name \"Zelendvor\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12508790"
+        },
+        {
+            "citation":"GeoNames populated place 12508790: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12508790"
+        },
+        {
+            "citation":"GeoNames populated place 12508790: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12508790"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684835 (Vara\u017edinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684835,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12508790
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"dd57e3bc8cd8fe5e9c99ee81be04bf50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029228,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":9895029228,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Zelendvor",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2059,
+    46.33308,
+    16.2059,
+    46.33308
+],
+  "geometry": {"coordinates":[16.2059,46.33308],"type":"Point"}
+}

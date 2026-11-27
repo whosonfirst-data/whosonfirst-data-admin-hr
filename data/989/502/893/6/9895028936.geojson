@@ -1,0 +1,73 @@
+{
+  "id": 9895028936,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.18321,43.07459,16.18321,43.07459",
+    "geom:latitude":43.07459,
+    "geom:longitude":16.18321,
+    "gn:population":18,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12047453: name \"Roga\u010di\u0107\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12047453"
+        },
+        {
+            "citation":"GeoNames populated place 12047453: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12047453"
+        },
+        {
+            "citation":"GeoNames populated place 12047453: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12047453"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684781 (Splitsko-dalmatinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684781,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12047453
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fa14684411fedfdb059bb3a0ca9c492f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895028936,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":9895028936,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Roga\u010di\u0107",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.18321,
+    43.07459,
+    16.18321,
+    43.07459
+],
+  "geometry": {"coordinates":[16.18321,43.07459],"type":"Point"}
+}

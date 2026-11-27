@@ -1,0 +1,73 @@
+{
+  "id": 9895030310,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.78858,45.30554,17.78858,45.30554",
+    "geom:latitude":45.30554,
+    "geom:longitude":17.78858,
+    "gn:population":110,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510218: name \"Vesela\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510218"
+        },
+        {
+            "citation":"GeoNames populated place 12510218: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510218"
+        },
+        {
+            "citation":"GeoNames populated place 12510218: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510218"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684763 (Po\u017ee\u0161ko-slavonska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684763,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510218
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f7cc23df28c7a9bfad15b2316cb7217e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030310,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":9895030310,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Vesela",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.78858,
+    45.30554,
+    17.78858,
+    45.30554
+],
+  "geometry": {"coordinates":[17.78858,45.30554],"type":"Point"}
+}

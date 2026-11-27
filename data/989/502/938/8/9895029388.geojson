@@ -1,0 +1,73 @@
+{
+  "id": 9895029388,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15,45.14706,14.15,45.14706",
+    "geom:latitude":45.14706,
+    "geom:longitude":14.15,
+    "gn:population":36,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509011: name \"Step\u010di\u0107i\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509011"
+        },
+        {
+            "citation":"GeoNames populated place 12509011: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509011"
+        },
+        {
+            "citation":"GeoNames populated place 12509011: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509011"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684829 (Istarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684829,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509011
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e07edf2569ec97a54a5333cb27878e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029388,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":9895029388,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Step\u010di\u0107i",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15,
+    45.14706,
+    14.15,
+    45.14706
+],
+  "geometry": {"coordinates":[14.15,45.14706],"type":"Point"}
+}

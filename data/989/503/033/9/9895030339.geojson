@@ -1,0 +1,73 @@
+{
+  "id": 9895030339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61746,46.16392,15.61746,46.16392",
+    "geom:latitude":46.16392,
+    "geom:longitude":15.61746,
+    "gn:population":6,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510251: name \"Boja\u010dno\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510251"
+        },
+        {
+            "citation":"GeoNames populated place 12510251: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510251"
+        },
+        {
+            "citation":"GeoNames populated place 12510251: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510251"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684813 (Krapinsko-zagorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684813,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510251
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"883839a853400e0136b78b87c66f1055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030339,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":9895030339,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Boja\u010dno",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61746,
+    46.16392,
+    15.61746,
+    46.16392
+],
+  "geometry": {"coordinates":[15.61746,46.16392],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895029204,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66257,46.13696,15.66257,46.13696",
+    "geom:latitude":46.13696,
+    "geom:longitude":15.66257,
+    "gn:population":405,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12508765: name \"Ivani\u0107 Desini\u0107ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12508765"
+        },
+        {
+            "citation":"GeoNames populated place 12508765: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12508765"
+        },
+        {
+            "citation":"GeoNames populated place 12508765: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12508765"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684813 (Krapinsko-zagorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684813,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12508765
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"911512d30b3fef2aeda33f806eb89320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029204,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":9895029204,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Ivani\u0107 Desini\u0107ki",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66257,
+    46.13696,
+    15.66257,
+    46.13696
+],
+  "geometry": {"coordinates":[15.66257,46.13696],"type":"Point"}
+}

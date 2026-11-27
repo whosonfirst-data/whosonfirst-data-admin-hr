@@ -1,0 +1,73 @@
+{
+  "id": 9895029378,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.10873,45.05249,14.10873,45.05249",
+    "geom:latitude":45.05249,
+    "geom:longitude":14.10873,
+    "gn:population":62,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509000: name \"Barti\u0107i\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509000"
+        },
+        {
+            "citation":"GeoNames populated place 12509000: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509000"
+        },
+        {
+            "citation":"GeoNames populated place 12509000: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509000"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684829 (Istarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684829,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509000
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"36468415c98c5dd36fa0b92e291c7614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029378,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":9895029378,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Barti\u0107i",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.10873,
+    45.05249,
+    14.10873,
+    45.05249
+],
+  "geometry": {"coordinates":[14.10873,45.05249],"type":"Point"}
+}

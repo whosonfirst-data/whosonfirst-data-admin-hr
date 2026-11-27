@@ -1,0 +1,73 @@
+{
+  "id": 9895029050,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.34679,45.49087,16.34679,45.49087",
+    "geom:latitude":45.49087,
+    "geom:longitude":16.34679,
+    "gn:population":721,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12205140: name \"Staro Pra\u010dno\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12205140"
+        },
+        {
+            "citation":"GeoNames populated place 12205140: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12205140"
+        },
+        {
+            "citation":"GeoNames populated place 12205140: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12205140"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684769 (Sisacko-moslavacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684769,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12205140
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6577abdb50a049903f9dda5b2759c15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029050,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":9895029050,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Staro Pra\u010dno",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.34679,
+    45.49087,
+    16.34679,
+    45.49087
+],
+  "geometry": {"coordinates":[16.34679,45.49087],"type":"Point"}
+}

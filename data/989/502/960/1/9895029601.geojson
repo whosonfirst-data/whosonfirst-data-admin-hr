@@ -1,0 +1,73 @@
+{
+  "id": 9895029601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.52782,45.1003,14.52782,45.1003",
+    "geom:latitude":45.1003,
+    "geom:longitude":14.52782,
+    "gn:population":89,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509322: name \"Sveti Ivan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509322"
+        },
+        {
+            "citation":"GeoNames populated place 12509322: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509322"
+        },
+        {
+            "citation":"GeoNames populated place 12509322: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509322"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684789 (Primorsko-goranska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684789,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509322
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d08f8c127e2c9102e09c589f16e190fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029601,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":9895029601,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Sveti Ivan",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.52782,
+    45.1003,
+    14.52782,
+    45.1003
+],
+  "geometry": {"coordinates":[14.52782,45.1003],"type":"Point"}
+}

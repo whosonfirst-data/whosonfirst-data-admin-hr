@@ -1,0 +1,73 @@
+{
+  "id": 9895030136,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33067,45.59791,15.33067,45.59791",
+    "geom:latitude":45.59791,
+    "geom:longitude":15.33067,
+    "gn:population":78,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509971: name \"Kohanjac\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509971"
+        },
+        {
+            "citation":"GeoNames populated place 12509971: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509971"
+        },
+        {
+            "citation":"GeoNames populated place 12509971: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509971"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684819 (Karlovacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684819,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509971
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8ea1a7b989b6ee281a3fb57e088f280b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030136,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":9895030136,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Kohanjac",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33067,
+    45.59791,
+    15.33067,
+    45.59791
+],
+  "geometry": {"coordinates":[15.33067,45.59791],"type":"Point"}
+}

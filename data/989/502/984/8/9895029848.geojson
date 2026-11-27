@@ -1,0 +1,73 @@
+{
+  "id": 9895029848,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70874,46.07665,15.70874,46.07665",
+    "geom:latitude":46.07665,
+    "geom:longitude":15.70874,
+    "gn:population":74,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509624: name \"Razdrto Tuheljsko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509624"
+        },
+        {
+            "citation":"GeoNames populated place 12509624: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509624"
+        },
+        {
+            "citation":"GeoNames populated place 12509624: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509624"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684813 (Krapinsko-zagorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684813,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509624
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"471d6140653bfaea35d9e22391f48a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029848,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":9895029848,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Razdrto Tuheljsko",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70874,
+    46.07665,
+    15.70874,
+    46.07665
+],
+  "geometry": {"coordinates":[15.70874,46.07665],"type":"Point"}
+}

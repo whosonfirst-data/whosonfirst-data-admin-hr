@@ -1,0 +1,73 @@
+{
+  "id": 9895030023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.17769,45.61735,17.17769,45.61735",
+    "geom:latitude":45.61735,
+    "geom:longitude":17.17769,
+    "gn:population":67,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509854: name \"Lipovac Majur\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509854"
+        },
+        {
+            "citation":"GeoNames populated place 12509854: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509854"
+        },
+        {
+            "citation":"GeoNames populated place 12509854: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509854"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684753 (Bjelovarsko-bilogorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684753,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509854
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5a067bb421830c3fd2c5677fe30469f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030023,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":9895030023,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Lipovac Majur",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.17769,
+    45.61735,
+    17.17769,
+    45.61735
+],
+  "geometry": {"coordinates":[17.17769,45.61735],"type":"Point"}
+}

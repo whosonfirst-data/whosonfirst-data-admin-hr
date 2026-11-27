@@ -1,0 +1,73 @@
+{
+  "id": 9895030519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73572,45.32342,13.73572,45.32342",
+    "geom:latitude":45.32342,
+    "geom:longitude":13.73572,
+    "gn:population":17,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510461: name \"Danci\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510461"
+        },
+        {
+            "citation":"GeoNames populated place 12510461: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510461"
+        },
+        {
+            "citation":"GeoNames populated place 12510461: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510461"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684829 (Istarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684829,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510461
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3114bc85f1b85429280640a972e9773e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030519,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":9895030519,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Danci",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73572,
+    45.32342,
+    13.73572,
+    45.32342
+],
+  "geometry": {"coordinates":[13.73572,45.32342],"type":"Point"}
+}

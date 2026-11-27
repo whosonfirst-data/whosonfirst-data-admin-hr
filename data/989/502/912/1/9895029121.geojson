@@ -1,0 +1,73 @@
+{
+  "id": 9895029121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00852,45.97311,16.00852,45.97311",
+    "geom:latitude":45.97311,
+    "geom:longitude":16.00852,
+    "gn:population":229,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12500941: name \"Brezje\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12500941"
+        },
+        {
+            "citation":"GeoNames populated place 12500941: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12500941"
+        },
+        {
+            "citation":"GeoNames populated place 12500941: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12500941"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684813 (Krapinsko-zagorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684813,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12500941
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ebc8800784c0bd85520ccdc9268b3660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029121,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":9895029121,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Brezje",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00852,
+    45.97311,
+    16.00852,
+    45.97311
+],
+  "geometry": {"coordinates":[16.00852,45.97311],"type":"Point"}
+}

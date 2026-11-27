@@ -1,0 +1,73 @@
+{
+  "id": 9895030170,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48029,45.32717,15.48029,45.32717",
+    "geom:latitude":45.32717,
+    "geom:longitude":15.48029,
+    "gn:population":4,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510005: name \"Ponorac Perjasi\u010dki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510005"
+        },
+        {
+            "citation":"GeoNames populated place 12510005: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510005"
+        },
+        {
+            "citation":"GeoNames populated place 12510005: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510005"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684819 (Karlovacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684819,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510005
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e24698856489bdf69de63bbd80298688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030170,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":9895030170,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Ponorac Perjasi\u010dki",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48029,
+    45.32717,
+    15.48029,
+    45.32717
+],
+  "geometry": {"coordinates":[15.48029,45.32717],"type":"Point"}
+}

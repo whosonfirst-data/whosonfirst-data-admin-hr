@@ -1,0 +1,73 @@
+{
+  "id": 9895029780,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46265,46.00098,16.46265,46.00098",
+    "geom:latitude":46.00098,
+    "geom:longitude":16.46265,
+    "gn:population":30,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509551: name \"Donji Dubovec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509551"
+        },
+        {
+            "citation":"GeoNames populated place 12509551: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509551"
+        },
+        {
+            "citation":"GeoNames populated place 12509551: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509551"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684799 (Koprivnicko-kri\u017eevacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684799,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509551
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"79aacf869d4bb20671e7c21fe0f45a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029780,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":9895029780,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Donji Dubovec",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46265,
+    46.00098,
+    16.46265,
+    46.00098
+],
+  "geometry": {"coordinates":[16.46265,46.00098],"type":"Point"}
+}

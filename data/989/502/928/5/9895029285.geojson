@@ -1,0 +1,73 @@
+{
+  "id": 9895029285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.09616,46.34486,16.09616,46.34486",
+    "geom:latitude":46.34486,
+    "geom:longitude":16.09616,
+    "gn:population":112,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12508856: name \"Malo Gradi\u0161\u0107e\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12508856"
+        },
+        {
+            "citation":"GeoNames populated place 12508856: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12508856"
+        },
+        {
+            "citation":"GeoNames populated place 12508856: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12508856"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684835 (Vara\u017edinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684835,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12508856
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0648f02e3de1e3c0401c1d7a5fdcb0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029285,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":9895029285,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Malo Gradi\u0161\u0107e",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.09616,
+    46.34486,
+    16.09616,
+    46.34486
+],
+  "geometry": {"coordinates":[16.09616,46.34486],"type":"Point"}
+}

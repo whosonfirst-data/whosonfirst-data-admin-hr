@@ -1,0 +1,73 @@
+{
+  "id": 9895029280,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11431,46.35004,16.11431,46.35004",
+    "geom:latitude":46.35004,
+    "geom:longitude":16.11431,
+    "gn:population":258,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12508846: name \"Natkri\u017eovljan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12508846"
+        },
+        {
+            "citation":"GeoNames populated place 12508846: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12508846"
+        },
+        {
+            "citation":"GeoNames populated place 12508846: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12508846"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684835 (Vara\u017edinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684835,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12508846
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c47ef17c6bc48dbee5963c74db93a200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029280,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":9895029280,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Natkri\u017eovljan",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11431,
+    46.35004,
+    16.11431,
+    46.35004
+],
+  "geometry": {"coordinates":[16.11431,46.35004],"type":"Point"}
+}

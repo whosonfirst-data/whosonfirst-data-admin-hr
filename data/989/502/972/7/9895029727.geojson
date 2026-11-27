@@ -1,0 +1,73 @@
+{
+  "id": 9895029727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5047,45.81087,15.5047,45.81087",
+    "geom:latitude":45.81087,
+    "geom:longitude":15.5047,
+    "gn:population":18,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509496: name \"Novo Selo \u017dumbera\u010dko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509496"
+        },
+        {
+            "citation":"GeoNames populated place 12509496: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509496"
+        },
+        {
+            "citation":"GeoNames populated place 12509496: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509496"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509496
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"57562f0e8adadbd1359105e9a6d7b912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029727,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895029727,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Novo Selo \u017dumbera\u010dko",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5047,
+    45.81087,
+    15.5047,
+    45.81087
+],
+  "geometry": {"coordinates":[15.5047,45.81087],"type":"Point"}
+}

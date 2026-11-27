@@ -1,0 +1,73 @@
+{
+  "id": 9895030004,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.35704,45.97052,17.35704,45.97052",
+    "geom:latitude":45.97052,
+    "geom:longitude":17.35704,
+    "gn:population":76,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509835: name \"Kri\u017enica\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509835"
+        },
+        {
+            "citation":"GeoNames populated place 12509835: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509835"
+        },
+        {
+            "citation":"GeoNames populated place 12509835: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509835"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684793 (Viroviticko-podravska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684793,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509835
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b6ff0c8b8c85da351c18efe93d3a2545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030004,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":9895030004,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Kri\u017enica",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.35704,
+    45.97052,
+    17.35704,
+    45.97052
+],
+  "geometry": {"coordinates":[17.35704,45.97052],"type":"Point"}
+}

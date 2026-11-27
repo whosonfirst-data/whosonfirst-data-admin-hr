@@ -1,0 +1,73 @@
+{
+  "id": 9895030143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30331,45.5738,15.30331,45.5738",
+    "geom:latitude":45.5738,
+    "geom:longitude":15.30331,
+    "gn:population":10,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509978: name \"Erti\u0107\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509978"
+        },
+        {
+            "citation":"GeoNames populated place 12509978: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509978"
+        },
+        {
+            "citation":"GeoNames populated place 12509978: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509978"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684819 (Karlovacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684819,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509978
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"51ac55925b5897c704c4689c2e57ba0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030143,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":9895030143,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Erti\u0107",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30331,
+    45.5738,
+    15.30331,
+    45.5738
+],
+  "geometry": {"coordinates":[15.30331,45.5738],"type":"Point"}
+}

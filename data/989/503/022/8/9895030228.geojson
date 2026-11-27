@@ -1,0 +1,73 @@
+{
+  "id": 9895030228,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.11843,45.60274,17.11843,45.60274",
+    "geom:latitude":45.60274,
+    "geom:longitude":17.11843,
+    "gn:population":22,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510092: name \"Brestova\u010dka Brda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510092"
+        },
+        {
+            "citation":"GeoNames populated place 12510092: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510092"
+        },
+        {
+            "citation":"GeoNames populated place 12510092: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510092"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684753 (Bjelovarsko-bilogorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684753,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510092
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"55e635086da0c582d99bef707ad78e12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030228,
+            "region_id":85684753
+        }
+    ],
+    "wof:id":9895030228,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Brestova\u010dka Brda",
+    "wof:parent_id":85684753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.11843,
+    45.60274,
+    17.11843,
+    45.60274
+],
+  "geometry": {"coordinates":[17.11843,45.60274],"type":"Point"}
+}

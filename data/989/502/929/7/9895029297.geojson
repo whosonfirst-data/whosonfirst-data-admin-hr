@@ -1,0 +1,73 @@
+{
+  "id": 9895029297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.27912,46.23465,16.27912,46.23465",
+    "geom:latitude":46.23465,
+    "geom:longitude":16.27912,
+    "gn:population":175,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12508874: name \"Ledinec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12508874"
+        },
+        {
+            "citation":"GeoNames populated place 12508874: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12508874"
+        },
+        {
+            "citation":"GeoNames populated place 12508874: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12508874"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684835 (Vara\u017edinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684835,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12508874
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0f4025307255461edd017cacc7f0ed15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029297,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":9895029297,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Ledinec",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.27912,
+    46.23465,
+    16.27912,
+    46.23465
+],
+  "geometry": {"coordinates":[16.27912,46.23465],"type":"Point"}
+}

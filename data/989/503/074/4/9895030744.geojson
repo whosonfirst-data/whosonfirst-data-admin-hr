@@ -1,0 +1,72 @@
+{
+  "id": 9895030744,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01095,46.11257,16.01095,46.11257",
+    "geom:latitude":46.11257,
+    "geom:longitude":16.01095,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12514214: name \"Sutinske Toplice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12514214"
+        },
+        {
+            "citation":"GeoNames populated place 12514214: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12514214"
+        },
+        {
+            "citation":"GeoNames populated place 12514214: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12514214"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684813 (Krapinsko-zagorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684813,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12514214
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"abfcaed15ebf3bc2586648b43395d2c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030744,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":9895030744,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Sutinske Toplice",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01095,
+    46.11257,
+    16.01095,
+    46.11257
+],
+  "geometry": {"coordinates":[16.01095,46.11257],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895029054,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.40052,46.43608,16.40052,46.43608",
+    "geom:latitude":46.43608,
+    "geom:longitude":16.40052,
+    "gn:population":433,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12207127: name \"Mali Mihaljevec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12207127"
+        },
+        {
+            "citation":"GeoNames populated place 12207127: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12207127"
+        },
+        {
+            "citation":"GeoNames populated place 12207127: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12207127"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684823 (Medimurska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684823,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12207127
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"e62f61a74e483dd2ef42a642cd074514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029054,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":9895029054,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Mali Mihaljevec",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.40052,
+    46.43608,
+    16.40052,
+    46.43608
+],
+  "geometry": {"coordinates":[16.40052,46.43608],"type":"Point"}
+}

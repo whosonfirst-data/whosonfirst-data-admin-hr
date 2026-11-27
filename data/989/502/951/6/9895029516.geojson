@@ -1,0 +1,73 @@
+{
+  "id": 9895029516,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4554,45.62811,15.4554,45.62811",
+    "geom:latitude":45.62811,
+    "geom:longitude":15.4554,
+    "gn:population":42,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509237: name \"Ilovac\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509237"
+        },
+        {
+            "citation":"GeoNames populated place 12509237: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509237"
+        },
+        {
+            "citation":"GeoNames populated place 12509237: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509237"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684819 (Karlovacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684819,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509237
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"f7101dcac47f292abc9b3e382a3beff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029516,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":9895029516,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Ilovac",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4554,
+    45.62811,
+    15.4554,
+    45.62811
+],
+  "geometry": {"coordinates":[15.4554,45.62811],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895029041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.42534,46.49334,16.42534,46.49334",
+    "geom:latitude":46.49334,
+    "geom:longitude":16.42534,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12204953: name \"Sitnice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12204953"
+        },
+        {
+            "citation":"GeoNames populated place 12204953: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12204953"
+        },
+        {
+            "citation":"GeoNames populated place 12204953: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12204953"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684823 (Medimurska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684823,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12204953
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8b8e26f44d1e5a7eee1b4483101df4bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029041,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":9895029041,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Sitnice",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.42534,
+    46.49334,
+    16.42534,
+    46.49334
+],
+  "geometry": {"coordinates":[16.42534,46.49334],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895030302,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.02414,45.41874,15.02414,45.41874",
+    "geom:latitude":45.41874,
+    "geom:longitude":15.02414,
+    "gn:population":8,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510210: name \"\u017dakule\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510210"
+        },
+        {
+            "citation":"GeoNames populated place 12510210: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510210"
+        },
+        {
+            "citation":"GeoNames populated place 12510210: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510210"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684789 (Primorsko-goranska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684789,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510210
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6bcdc576df2cc8c70344b95f4387527e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030302,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":9895030302,
+    "wof:lastmodified":1795734984,
+    "wof:name":"\u017dakule",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.02414,
+    45.41874,
+    15.02414,
+    45.41874
+],
+  "geometry": {"coordinates":[15.02414,45.41874],"type":"Point"}
+}

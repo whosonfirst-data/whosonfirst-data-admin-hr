@@ -1,0 +1,73 @@
+{
+  "id": 9895029056,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.43082,46.44067,16.43082,46.44067",
+    "geom:latitude":46.44067,
+    "geom:longitude":16.43082,
+    "gn:population":215,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12207165: name \"Slemenice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12207165"
+        },
+        {
+            "citation":"GeoNames populated place 12207165: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12207165"
+        },
+        {
+            "citation":"GeoNames populated place 12207165: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12207165"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684823 (Medimurska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684823,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12207165
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"64ce82b641d017e3a488f8544b83cb42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029056,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":9895029056,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Slemenice",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.43082,
+    46.44067,
+    16.43082,
+    46.44067
+],
+  "geometry": {"coordinates":[16.43082,46.44067],"type":"Point"}
+}

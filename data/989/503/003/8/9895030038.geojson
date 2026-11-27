@@ -1,0 +1,73 @@
+{
+  "id": 9895030038,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57278,45.14345,15.57278,45.14345",
+    "geom:latitude":45.14345,
+    "geom:longitude":15.57278,
+    "gn:population":83,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509869: name \"Gornji Cerovac\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509869"
+        },
+        {
+            "citation":"GeoNames populated place 12509869: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509869"
+        },
+        {
+            "citation":"GeoNames populated place 12509869: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509869"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684819 (Karlovacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684819,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509869
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"34d03d5dedde81b1646b51bad96ff448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030038,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":9895030038,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Gornji Cerovac",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57278,
+    45.14345,
+    15.57278,
+    45.14345
+],
+  "geometry": {"coordinates":[15.57278,45.14345],"type":"Point"}
+}

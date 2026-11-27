@@ -1,0 +1,73 @@
+{
+  "id": 9895029722,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73403,45.74587,15.73403,45.74587",
+    "geom:latitude":45.74587,
+    "geom:longitude":15.73403,
+    "gn:population":77,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509491: name \"Dolec Podoki\u0107ki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509491"
+        },
+        {
+            "citation":"GeoNames populated place 12509491: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509491"
+        },
+        {
+            "citation":"GeoNames populated place 12509491: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509491"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509491
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7f1145c7ce2f546cbc5fa720fde646bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029722,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895029722,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Dolec Podoki\u0107ki",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73403,
+    45.74587,
+    15.73403,
+    45.74587
+],
+  "geometry": {"coordinates":[15.73403,45.74587],"type":"Point"}
+}

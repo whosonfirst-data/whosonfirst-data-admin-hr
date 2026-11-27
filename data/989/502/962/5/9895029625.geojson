@@ -1,0 +1,73 @@
+{
+  "id": 9895029625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.2645,45.90823,16.2645,45.90823",
+    "geom:latitude":45.90823,
+    "geom:longitude":16.2645,
+    "gn:population":172,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509366: name \"Brezovec Zelinski\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509366"
+        },
+        {
+            "citation":"GeoNames populated place 12509366: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509366"
+        },
+        {
+            "citation":"GeoNames populated place 12509366: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509366"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509366
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"578b9669b9e84af1d3457842a135eb9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029625,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895029625,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Brezovec Zelinski",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.2645,
+    45.90823,
+    16.2645,
+    45.90823
+],
+  "geometry": {"coordinates":[16.2645,45.90823],"type":"Point"}
+}

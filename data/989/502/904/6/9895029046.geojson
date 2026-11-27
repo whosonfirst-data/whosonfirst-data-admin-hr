@@ -1,0 +1,73 @@
+{
+  "id": 9895029046,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.34337,46.42635,16.34337,46.42635",
+    "geom:latitude":46.42635,
+    "geom:longitude":16.34337,
+    "gn:population":200,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12205071: name \"Dragoslavec Selo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12205071"
+        },
+        {
+            "citation":"GeoNames populated place 12205071: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12205071"
+        },
+        {
+            "citation":"GeoNames populated place 12205071: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12205071"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684823 (Medimurska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684823,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12205071
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2507fb5b665e4040503cfde769b0e49a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029046,
+            "region_id":85684823
+        }
+    ],
+    "wof:id":9895029046,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Dragoslavec Selo",
+    "wof:parent_id":85684823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.34337,
+    46.42635,
+    16.34337,
+    46.42635
+],
+  "geometry": {"coordinates":[16.34337,46.42635],"type":"Point"}
+}

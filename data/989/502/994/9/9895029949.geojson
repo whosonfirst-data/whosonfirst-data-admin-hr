@@ -1,0 +1,73 @@
+{
+  "id": 9895029949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49328,45.83559,17.49328,45.83559",
+    "geom:latitude":45.83559,
+    "geom:longitude":17.49328,
+    "gn:population":187,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509777: name \"Lipovac\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509777"
+        },
+        {
+            "citation":"GeoNames populated place 12509777: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509777"
+        },
+        {
+            "citation":"GeoNames populated place 12509777: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509777"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684793 (Viroviticko-podravska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684793,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509777
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"420caa44b3d498ba5c3a149873e80f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029949,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":9895029949,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Lipovac",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49328,
+    45.83559,
+    17.49328,
+    45.83559
+],
+  "geometry": {"coordinates":[17.49328,45.83559],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895029441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03795,45.26545,16.03795,45.26545",
+    "geom:latitude":45.26545,
+    "geom:longitude":16.03795,
+    "gn:population":5,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509097: name \"Borovita\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509097"
+        },
+        {
+            "citation":"GeoNames populated place 12509097: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509097"
+        },
+        {
+            "citation":"GeoNames populated place 12509097: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509097"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684769 (Sisacko-moslavacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684769,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509097
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"63132982276c81397ac873835a5e364a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029441,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":9895029441,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Borovita",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03795,
+    45.26545,
+    16.03795,
+    45.26545
+],
+  "geometry": {"coordinates":[16.03795,45.26545],"type":"Point"}
+}

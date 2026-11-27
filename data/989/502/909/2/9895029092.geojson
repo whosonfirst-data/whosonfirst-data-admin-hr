@@ -1,0 +1,73 @@
+{
+  "id": 9895029092,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54536,45.14949,15.54536,45.14949",
+    "geom:latitude":45.14949,
+    "geom:longitude":15.54536,
+    "gn:population":171,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12253375: name \"Nik\u0161i\u0107\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12253375"
+        },
+        {
+            "citation":"GeoNames populated place 12253375: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12253375"
+        },
+        {
+            "citation":"GeoNames populated place 12253375: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12253375"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684819 (Karlovacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684819,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12253375
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"cdff35081c1be548a10ed8de8cdc3831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029092,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":9895029092,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Nik\u0161i\u0107",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54536,
+    45.14949,
+    15.54536,
+    45.14949
+],
+  "geometry": {"coordinates":[15.54536,45.14949],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895030388,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46424,46.20501,16.46424,46.20501",
+    "geom:latitude":46.20501,
+    "geom:longitude":16.46424,
+    "gn:population":87,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510300: name \"Lovrentovec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510300"
+        },
+        {
+            "citation":"GeoNames populated place 12510300: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510300"
+        },
+        {
+            "citation":"GeoNames populated place 12510300: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510300"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684835 (Vara\u017edinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684835,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510300
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"13f92e66496f2b72fd8b8c45dfb4217b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030388,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":9895030388,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Lovrentovec",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46424,
+    46.20501,
+    16.46424,
+    46.20501
+],
+  "geometry": {"coordinates":[16.46424,46.20501],"type":"Point"}
+}

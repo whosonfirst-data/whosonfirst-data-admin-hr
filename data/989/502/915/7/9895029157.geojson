@@ -1,0 +1,73 @@
+{
+  "id": 9895029157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86281,46.18052,15.86281,46.18052",
+    "geom:latitude":46.18052,
+    "geom:longitude":15.86281,
+    "gn:population":543,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12503538: name \"Podgora Krapinska\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12503538"
+        },
+        {
+            "citation":"GeoNames populated place 12503538: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12503538"
+        },
+        {
+            "citation":"GeoNames populated place 12503538: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12503538"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684813 (Krapinsko-zagorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684813,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12503538
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3d9b425345e9d80207d44352b6f7ed9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029157,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":9895029157,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Podgora Krapinska",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86281,
+    46.18052,
+    15.86281,
+    46.18052
+],
+  "geometry": {"coordinates":[15.86281,46.18052],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895029137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2982,45.34909,14.2982,45.34909",
+    "geom:latitude":45.34909,
+    "geom:longitude":14.2982,
+    "gn:population":682,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12500965: name \"Bregi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12500965"
+        },
+        {
+            "citation":"GeoNames populated place 12500965: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12500965"
+        },
+        {
+            "citation":"GeoNames populated place 12500965: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12500965"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684789 (Primorsko-goranska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684789,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12500965
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"05d4b2e0eb4e7ab321d28847117232c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029137,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":9895029137,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Bregi",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2982,
+    45.34909,
+    14.2982,
+    45.34909
+],
+  "geometry": {"coordinates":[14.2982,45.34909],"type":"Point"}
+}

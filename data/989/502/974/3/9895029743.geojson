@@ -1,0 +1,73 @@
+{
+  "id": 9895029743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.2361,43.439,17.2361,43.439",
+    "geom:latitude":43.439,
+    "geom:longitude":17.2361,
+    "gn:population":326,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509512: name \"Medvidovi\u0107a Draga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509512"
+        },
+        {
+            "citation":"GeoNames populated place 12509512: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509512"
+        },
+        {
+            "citation":"GeoNames populated place 12509512: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509512"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684781 (Splitsko-dalmatinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684781,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509512
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"849f8cdde9795b12c524d23fe9dfc845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029743,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":9895029743,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Medvidovi\u0107a Draga",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.2361,
+    43.439,
+    17.2361,
+    43.439
+],
+  "geometry": {"coordinates":[17.2361,43.439],"type":"Point"}
+}

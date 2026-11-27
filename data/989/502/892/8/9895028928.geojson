@@ -1,0 +1,72 @@
+{
+  "id": 9895028928,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01275,44.03328,15.01275,44.03328",
+    "geom:latitude":44.03328,
+    "geom:longitude":15.01275,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12047442: name \"Ripi\u0161\u0107e\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12047442"
+        },
+        {
+            "citation":"GeoNames populated place 12047442: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12047442"
+        },
+        {
+            "citation":"GeoNames populated place 12047442: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12047442"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684807 (Zadarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684807,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12047442
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3535dfe3e300a6c50aeef957dcf4d12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895028928,
+            "region_id":85684807
+        }
+    ],
+    "wof:id":9895028928,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Ripi\u0161\u0107e",
+    "wof:parent_id":85684807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01275,
+    44.03328,
+    15.01275,
+    44.03328
+],
+  "geometry": {"coordinates":[15.01275,44.03328],"type":"Point"}
+}

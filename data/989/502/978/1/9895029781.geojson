@@ -1,0 +1,73 @@
+{
+  "id": 9895029781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.44926,45.99788,16.44926,45.99788",
+    "geom:latitude":45.99788,
+    "geom:longitude":16.44926,
+    "gn:population":85,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509552: name \"Pavlovec Ravenski\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509552"
+        },
+        {
+            "citation":"GeoNames populated place 12509552: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509552"
+        },
+        {
+            "citation":"GeoNames populated place 12509552: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509552"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684799 (Koprivnicko-kri\u017eevacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684799,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509552
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b0b9ef61f30cc6df8de8e1dba058b03c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029781,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":9895029781,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Pavlovec Ravenski",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.44926,
+    45.99788,
+    16.44926,
+    45.99788
+],
+  "geometry": {"coordinates":[16.44926,45.99788],"type":"Point"}
+}

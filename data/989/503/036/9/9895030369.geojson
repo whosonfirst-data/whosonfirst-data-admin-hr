@@ -1,0 +1,73 @@
+{
+  "id": 9895030369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90684,45.11739,13.90684,45.11739",
+    "geom:latitude":45.11739,
+    "geom:longitude":13.90684,
+    "gn:population":88,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510281: name \"Mu\u017eini\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510281"
+        },
+        {
+            "citation":"GeoNames populated place 12510281: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510281"
+        },
+        {
+            "citation":"GeoNames populated place 12510281: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510281"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684829 (Istarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684829,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510281
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5c2987b37ea6f9e57392fad7113a1c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030369,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":9895030369,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Mu\u017eini",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90684,
+    45.11739,
+    13.90684,
+    45.11739
+],
+  "geometry": {"coordinates":[13.90684,45.11739],"type":"Point"}
+}

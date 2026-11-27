@@ -1,0 +1,73 @@
+{
+  "id": 9895030240,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.74354,45.38697,15.74354,45.38697",
+    "geom:latitude":45.38697,
+    "geom:longitude":15.74354,
+    "gn:population":36,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510104: name \"Podsedlo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510104"
+        },
+        {
+            "citation":"GeoNames populated place 12510104: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510104"
+        },
+        {
+            "citation":"GeoNames populated place 12510104: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510104"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684819 (Karlovacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684819,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510104
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"95f91f5c9b807019bb43f26a055ff8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030240,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":9895030240,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Podsedlo",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.74354,
+    45.38697,
+    15.74354,
+    45.38697
+],
+  "geometry": {"coordinates":[15.74354,45.38697],"type":"Point"}
+}

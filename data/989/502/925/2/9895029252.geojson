@@ -1,0 +1,73 @@
+{
+  "id": 9895029252,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.23998,46.28122,16.23998,46.28122",
+    "geom:latitude":46.28122,
+    "geom:longitude":16.23998,
+    "gn:population":296,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12508815: name \"Domitrovec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12508815"
+        },
+        {
+            "citation":"GeoNames populated place 12508815: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12508815"
+        },
+        {
+            "citation":"GeoNames populated place 12508815: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12508815"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684835 (Vara\u017edinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684835,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12508815
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"8a43374164862b74279b2a7b1410bec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029252,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":9895029252,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Domitrovec",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.23998,
+    46.28122,
+    16.23998,
+    46.28122
+],
+  "geometry": {"coordinates":[16.23998,46.28122],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895029879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11693,46.05009,16.11693,46.05009",
+    "geom:latitude":46.05009,
+    "geom:longitude":16.11693,
+    "gn:population":247,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509657: name \"Vele\u0161kovec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509657"
+        },
+        {
+            "citation":"GeoNames populated place 12509657: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509657"
+        },
+        {
+            "citation":"GeoNames populated place 12509657: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509657"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684813 (Krapinsko-zagorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684813,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509657
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"69a2732f537a4e7ac0b534a34afd12e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029879,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":9895029879,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Vele\u0161kovec",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11693,
+    46.05009,
+    16.11693,
+    46.05009
+],
+  "geometry": {"coordinates":[16.11693,46.05009],"type":"Point"}
+}

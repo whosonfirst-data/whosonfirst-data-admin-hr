@@ -1,0 +1,73 @@
+{
+  "id": 9895029698,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.77321,46.03526,15.77321,46.03526",
+    "geom:latitude":46.03526,
+    "geom:longitude":15.77321,
+    "gn:population":182,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509451: name \"Lu\u010delnica Toma\u0161eve\u010dka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509451"
+        },
+        {
+            "citation":"GeoNames populated place 12509451: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509451"
+        },
+        {
+            "citation":"GeoNames populated place 12509451: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509451"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684813 (Krapinsko-zagorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684813,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509451
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5fc91054f38e4dc2bd4e7157c050d4bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029698,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":9895029698,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Lu\u010delnica Toma\u0161eve\u010dka",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.77321,
+    46.03526,
+    15.77321,
+    46.03526
+],
+  "geometry": {"coordinates":[15.77321,46.03526],"type":"Point"}
+}

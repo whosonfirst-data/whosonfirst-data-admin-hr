@@ -1,0 +1,73 @@
+{
+  "id": 9895030577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73752,45.52427,14.73752,45.52427",
+    "geom:latitude":45.52427,
+    "geom:longitude":14.73752,
+    "gn:population":5,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510526: name \"Gornji Lo\u017eac\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510526"
+        },
+        {
+            "citation":"GeoNames populated place 12510526: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510526"
+        },
+        {
+            "citation":"GeoNames populated place 12510526: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510526"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684789 (Primorsko-goranska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684789,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510526
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"c726dad096f6693a04012e4708618a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030577,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":9895030577,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Gornji Lo\u017eac",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73752,
+    45.52427,
+    14.73752,
+    45.52427
+],
+  "geometry": {"coordinates":[14.73752,45.52427],"type":"Point"}
+}

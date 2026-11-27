@@ -1,0 +1,73 @@
+{
+  "id": 9895030206,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.66862,46.12109,16.66862,46.12109",
+    "geom:latitude":46.12109,
+    "geom:longitude":16.66862,
+    "gn:population":9,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510069: name \"Mali Botinovac\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510069"
+        },
+        {
+            "citation":"GeoNames populated place 12510069: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510069"
+        },
+        {
+            "citation":"GeoNames populated place 12510069: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510069"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684799 (Koprivnicko-kri\u017eevacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684799,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510069
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"78558280aa36b7d9b15df2365769e4f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030206,
+            "region_id":85684799
+        }
+    ],
+    "wof:id":9895030206,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Mali Botinovac",
+    "wof:parent_id":85684799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.66862,
+    46.12109,
+    16.66862,
+    46.12109
+],
+  "geometry": {"coordinates":[16.66862,46.12109],"type":"Point"}
+}

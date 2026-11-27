@@ -1,0 +1,73 @@
+{
+  "id": 9895029253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.25436,46.28211,16.25436,46.28211",
+    "geom:latitude":46.28211,
+    "geom:longitude":16.25436,
+    "gn:population":287,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12508816: name \"Krkanec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12508816"
+        },
+        {
+            "citation":"GeoNames populated place 12508816: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12508816"
+        },
+        {
+            "citation":"GeoNames populated place 12508816: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12508816"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684835 (Vara\u017edinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684835,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12508816
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"0b0168ea34db1a93438d5fa897a394be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029253,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":9895029253,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Krkanec",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.25436,
+    46.28211,
+    16.25436,
+    46.28211
+],
+  "geometry": {"coordinates":[16.25436,46.28211],"type":"Point"}
+}

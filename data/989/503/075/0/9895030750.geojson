@@ -1,0 +1,72 @@
+{
+  "id": 9895030750,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.26777,45.49502,17.26777,45.49502",
+    "geom:latitude":45.49502,
+    "geom:longitude":17.26777,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12514221: name \"Srednji Grahovljani\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12514221"
+        },
+        {
+            "citation":"GeoNames populated place 12514221: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12514221"
+        },
+        {
+            "citation":"GeoNames populated place 12514221: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12514221"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684763 (Po\u017ee\u0161ko-slavonska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684763,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12514221
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bd0f6f58b916ab64278f2ebc0f9da97f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030750,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":9895030750,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Srednji Grahovljani",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.26777,
+    45.49502,
+    17.26777,
+    45.49502
+],
+  "geometry": {"coordinates":[17.26777,45.49502],"type":"Point"}
+}

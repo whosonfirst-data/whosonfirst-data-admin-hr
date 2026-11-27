@@ -1,0 +1,73 @@
+{
+  "id": 9895030544,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.38721,45.72682,15.38721,45.72682",
+    "geom:latitude":45.72682,
+    "geom:longitude":15.38721,
+    "gn:population":4,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510488: name \"Kordi\u0107i \u017dumbera\u010dki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510488"
+        },
+        {
+            "citation":"GeoNames populated place 12510488: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510488"
+        },
+        {
+            "citation":"GeoNames populated place 12510488: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510488"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510488
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"47204d1db7119fff6c47a6768806ce48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030544,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895030544,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Kordi\u0107i \u017dumbera\u010dki",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.38721,
+    45.72682,
+    15.38721,
+    45.72682
+],
+  "geometry": {"coordinates":[15.38721,45.72682],"type":"Point"}
+}

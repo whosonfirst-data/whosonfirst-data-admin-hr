@@ -1,0 +1,73 @@
+{
+  "id": 9895030562,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78373,45.25737,13.78373,45.25737",
+    "geom:latitude":45.25737,
+    "geom:longitude":13.78373,
+    "gn:population":39,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510509: name \"Smolici\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510509"
+        },
+        {
+            "citation":"GeoNames populated place 12510509: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510509"
+        },
+        {
+            "citation":"GeoNames populated place 12510509: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510509"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684829 (Istarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684829,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510509
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"a6d29930873b4dec2946b806a3b8e12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030562,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":9895030562,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Smolici",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78373,
+    45.25737,
+    13.78373,
+    45.25737
+],
+  "geometry": {"coordinates":[13.78373,45.25737],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895029216,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9384,46.05671,15.9384,46.05671",
+    "geom:latitude":46.05671,
+    "geom:longitude":15.9384,
+    "gn:population":122,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12508778: name \"Kri\u017ean\u010de\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12508778"
+        },
+        {
+            "citation":"GeoNames populated place 12508778: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12508778"
+        },
+        {
+            "citation":"GeoNames populated place 12508778: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12508778"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684813 (Krapinsko-zagorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684813,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12508778
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d254d5c1d96b8a97714ff8bfa63d5f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029216,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":9895029216,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Kri\u017ean\u010de",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9384,
+    46.05671,
+    15.9384,
+    46.05671
+],
+  "geometry": {"coordinates":[15.9384,46.05671],"type":"Point"}
+}

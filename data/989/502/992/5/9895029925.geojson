@@ -1,0 +1,73 @@
+{
+  "id": 9895029925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.50544,45.90128,16.50544,45.90128",
+    "geom:latitude":45.90128,
+    "geom:longitude":16.50544,
+    "gn:population":84,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509753: name \"Grabri\u0107\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509753"
+        },
+        {
+            "citation":"GeoNames populated place 12509753: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509753"
+        },
+        {
+            "citation":"GeoNames populated place 12509753: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509753"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509753
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"035783f0b587fc09e6ac8bf9a1111d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029925,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895029925,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Grabri\u0107",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.50544,
+    45.90128,
+    16.50544,
+    45.90128
+],
+  "geometry": {"coordinates":[16.50544,45.90128],"type":"Point"}
+}

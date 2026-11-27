@@ -1,0 +1,73 @@
+{
+  "id": 9895029756,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05895,43.69991,16.05895,43.69991",
+    "geom:latitude":43.69991,
+    "geom:longitude":16.05895,
+    "gn:population":319,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509526: name \"Danilo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509526"
+        },
+        {
+            "citation":"GeoNames populated place 12509526: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509526"
+        },
+        {
+            "citation":"GeoNames populated place 12509526: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509526"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684755 (\u0160ibensko-kninska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684755,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509526
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"2b66a8cd569a4e0f2c27518be2b69daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029756,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":9895029756,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Danilo",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05895,
+    43.69991,
+    16.05895,
+    43.69991
+],
+  "geometry": {"coordinates":[16.05895,43.69991],"type":"Point"}
+}

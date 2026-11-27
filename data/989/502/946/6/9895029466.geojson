@@ -1,0 +1,73 @@
+{
+  "id": 9895029466,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.48778,45.27847,16.48778,45.27847",
+    "geom:latitude":45.27847,
+    "geom:longitude":16.48778,
+    "gn:population":25,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509140: name \"Kostre\u0161i Bjelova\u010dki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509140"
+        },
+        {
+            "citation":"GeoNames populated place 12509140: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509140"
+        },
+        {
+            "citation":"GeoNames populated place 12509140: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509140"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684769 (Sisacko-moslavacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684769,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509140
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fe08116db3d5bc41161afff03834aa5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029466,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":9895029466,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Kostre\u0161i Bjelova\u010dki",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.48778,
+    45.27847,
+    16.48778,
+    45.27847
+],
+  "geometry": {"coordinates":[16.48778,45.27847],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895030731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.7107,45.32645,13.7107,45.32645",
+    "geom:latitude":45.32645,
+    "geom:longitude":13.7107,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12514195: name \"Vrani\u0107i kod Vi\u017einade\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12514195"
+        },
+        {
+            "citation":"GeoNames populated place 12514195: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12514195"
+        },
+        {
+            "citation":"GeoNames populated place 12514195: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12514195"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684829 (Istarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684829,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12514195
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"58e8de4d5b53121c7def1fb9b0529178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030731,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":9895030731,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Vrani\u0107i kod Vi\u017einade",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.7107,
+    45.32645,
+    13.7107,
+    45.32645
+],
+  "geometry": {"coordinates":[13.7107,45.32645],"type":"Point"}
+}

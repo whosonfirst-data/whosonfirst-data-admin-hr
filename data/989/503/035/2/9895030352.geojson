@@ -1,0 +1,73 @@
+{
+  "id": 9895030352,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87225,45.09566,14.87225,45.09566",
+    "geom:latitude":45.09566,
+    "geom:longitude":14.87225,
+    "gn:population":8,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510264: name \"Drinak\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510264"
+        },
+        {
+            "citation":"GeoNames populated place 12510264: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510264"
+        },
+        {
+            "citation":"GeoNames populated place 12510264: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510264"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684789 (Primorsko-goranska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684789,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510264
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"44dd6b5c7aa1355f30e3e8a8b257a344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030352,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":9895030352,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Drinak",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87225,
+    45.09566,
+    14.87225,
+    45.09566
+],
+  "geometry": {"coordinates":[14.87225,45.09566],"type":"Point"}
+}

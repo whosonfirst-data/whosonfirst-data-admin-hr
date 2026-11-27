@@ -1,0 +1,73 @@
+{
+  "id": 9895029674,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68099,45.72929,15.68099,45.72929",
+    "geom:latitude":45.72929,
+    "geom:longitude":15.68099,
+    "gn:population":36,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509427: name \"Ore\u0161je Oki\u0107ko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509427"
+        },
+        {
+            "citation":"GeoNames populated place 12509427: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509427"
+        },
+        {
+            "citation":"GeoNames populated place 12509427: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509427"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509427
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"bbf283d3a08b22e4dd94a3b108f6b14d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029674,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895029674,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Ore\u0161je Oki\u0107ko",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68099,
+    45.72929,
+    15.68099,
+    45.72929
+],
+  "geometry": {"coordinates":[15.68099,45.72929],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895030446,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3219,45.9761,16.3219,45.9761",
+    "geom:latitude":45.9761,
+    "geom:longitude":16.3219,
+    "gn:population":20,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510373: name \"Mokrica Toma\u0161eve\u010dka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510373"
+        },
+        {
+            "citation":"GeoNames populated place 12510373: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510373"
+        },
+        {
+            "citation":"GeoNames populated place 12510373: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510373"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510373
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"98e911fa7a5ae3ab083e20c6fd0369ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030446,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895030446,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Mokrica Toma\u0161eve\u010dka",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3219,
+    45.9761,
+    16.3219,
+    45.9761
+],
+  "geometry": {"coordinates":[16.3219,45.9761],"type":"Point"}
+}

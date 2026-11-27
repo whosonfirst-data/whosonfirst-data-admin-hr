@@ -1,0 +1,73 @@
+{
+  "id": 9895030701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.40178,45.78174,17.40178,45.78174",
+    "geom:latitude":45.78174,
+    "geom:longitude":17.40178,
+    "gn:population":295,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12514104: name \"Rezova\u010dke Kr\u010devine\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12514104"
+        },
+        {
+            "citation":"GeoNames populated place 12514104: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12514104"
+        },
+        {
+            "citation":"GeoNames populated place 12514104: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12514104"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684793 (Viroviticko-podravska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684793,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12514104
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"dc2bc8cbdf83adac50e0e9da51ca28ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030701,
+            "region_id":85684793
+        }
+    ],
+    "wof:id":9895030701,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Rezova\u010dke Kr\u010devine",
+    "wof:parent_id":85684793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.40178,
+    45.78174,
+    17.40178,
+    45.78174
+],
+  "geometry": {"coordinates":[17.40178,45.78174],"type":"Point"}
+}

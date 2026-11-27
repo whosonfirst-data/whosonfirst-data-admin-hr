@@ -1,0 +1,73 @@
+{
+  "id": 9895030054,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.37713,45.63702,15.37713,45.63702",
+    "geom:latitude":45.63702,
+    "geom:longitude":15.37713,
+    "gn:population":165,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509885: name \"Orljakovo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509885"
+        },
+        {
+            "citation":"GeoNames populated place 12509885: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509885"
+        },
+        {
+            "citation":"GeoNames populated place 12509885: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509885"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684819 (Karlovacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684819,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509885
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"68105329d6bd7795e347898bb69b5a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030054,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":9895030054,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Orljakovo",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.37713,
+    45.63702,
+    15.37713,
+    45.63702
+],
+  "geometry": {"coordinates":[15.37713,45.63702],"type":"Point"}
+}

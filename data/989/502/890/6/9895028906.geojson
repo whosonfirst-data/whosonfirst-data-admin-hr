@@ -1,0 +1,72 @@
+{
+  "id": 9895028906,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22116,43.87056,15.22116,43.87056",
+    "geom:latitude":43.87056,
+    "geom:longitude":15.22116,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12047402: name \"Suha Punta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12047402"
+        },
+        {
+            "citation":"GeoNames populated place 12047402: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12047402"
+        },
+        {
+            "citation":"GeoNames populated place 12047402: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12047402"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684755 (\u0160ibensko-kninska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684755,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12047402
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"fe4bdd0ad697a490c59ec36dd6a14717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895028906,
+            "region_id":85684755
+        }
+    ],
+    "wof:id":9895028906,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Suha Punta",
+    "wof:parent_id":85684755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22116,
+    43.87056,
+    15.22116,
+    43.87056
+],
+  "geometry": {"coordinates":[15.22116,43.87056],"type":"Point"}
+}

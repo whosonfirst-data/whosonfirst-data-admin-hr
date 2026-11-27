@@ -1,0 +1,73 @@
+{
+  "id": 9895030594,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.15693,45.03439,14.15693,45.03439",
+    "geom:latitude":45.03439,
+    "geom:longitude":14.15693,
+    "gn:population":49,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510543: name \"Sveta Marina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510543"
+        },
+        {
+            "citation":"GeoNames populated place 12510543: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510543"
+        },
+        {
+            "citation":"GeoNames populated place 12510543: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510543"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684829 (Istarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684829,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510543
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"5c1f302081e2a2e0869a504bfcdc4dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030594,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":9895030594,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Sveta Marina",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.15693,
+    45.03439,
+    14.15693,
+    45.03439
+],
+  "geometry": {"coordinates":[14.15693,45.03439],"type":"Point"}
+}

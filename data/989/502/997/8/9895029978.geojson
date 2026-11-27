@@ -1,0 +1,73 @@
+{
+  "id": 9895029978,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.19605,46.08028,16.19605,46.08028",
+    "geom:latitude":46.08028,
+    "geom:longitude":16.19605,
+    "gn:population":118,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509809: name \"Krapina Selo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509809"
+        },
+        {
+            "citation":"GeoNames populated place 12509809: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509809"
+        },
+        {
+            "citation":"GeoNames populated place 12509809: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509809"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684813 (Krapinsko-zagorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684813,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509809
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"62431b4c5c411033f187e595f62bc278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029978,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":9895029978,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Krapina Selo",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.19605,
+    46.08028,
+    16.19605,
+    46.08028
+],
+  "geometry": {"coordinates":[16.19605,46.08028],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895029922,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.49971,45.94815,16.49971,45.94815",
+    "geom:latitude":45.94815,
+    "geom:longitude":16.49971,
+    "gn:population":224,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509750: name \"Repinec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509750"
+        },
+        {
+            "citation":"GeoNames populated place 12509750: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509750"
+        },
+        {
+            "citation":"GeoNames populated place 12509750: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509750"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509750
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"6857d80ad1c9f72e625d360043f1e96f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029922,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895029922,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Repinec",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.49971,
+    45.94815,
+    16.49971,
+    45.94815
+],
+  "geometry": {"coordinates":[16.49971,45.94815],"type":"Point"}
+}

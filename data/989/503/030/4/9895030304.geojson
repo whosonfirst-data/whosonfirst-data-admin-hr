@@ -1,0 +1,72 @@
+{
+  "id": 9895030304,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16907,45.40817,15.16907,45.40817",
+    "geom:latitude":45.40817,
+    "geom:longitude":15.16907,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510212: name \"Smi\u0161ljak\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510212"
+        },
+        {
+            "citation":"GeoNames populated place 12510212: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510212"
+        },
+        {
+            "citation":"GeoNames populated place 12510212: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510212"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684789 (Primorsko-goranska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684789,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510212
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"ea2a3473f2cfb166e833812296442e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030304,
+            "region_id":85684789
+        }
+    ],
+    "wof:id":9895030304,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Smi\u0161ljak",
+    "wof:parent_id":85684789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16907,
+    45.40817,
+    15.16907,
+    45.40817
+],
+  "geometry": {"coordinates":[15.16907,45.40817],"type":"Point"}
+}

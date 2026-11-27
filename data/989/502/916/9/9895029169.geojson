@@ -1,0 +1,72 @@
+{
+  "id": 9895029169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.04912,45.30079,19.04912,45.30079",
+    "geom:latitude":45.30079,
+    "geom:longitude":19.04912,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12503707: name \"Grabovo-dio\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12503707"
+        },
+        {
+            "citation":"GeoNames populated place 12503707: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12503707"
+        },
+        {
+            "citation":"GeoNames populated place 12503707: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12503707"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684733 (Vukovarsko-srijemska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684733,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12503707
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"26b5bf1ffb77355add3798e98c5db725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029169,
+            "region_id":85684733
+        }
+    ],
+    "wof:id":9895029169,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Grabovo-dio",
+    "wof:parent_id":85684733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.04912,
+    45.30079,
+    19.04912,
+    45.30079
+],
+  "geometry": {"coordinates":[19.04912,45.30079],"type":"Point"}
+}

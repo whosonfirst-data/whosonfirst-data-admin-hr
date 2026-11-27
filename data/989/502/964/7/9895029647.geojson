@@ -1,0 +1,73 @@
+{
+  "id": 9895029647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.15401,45.43668,17.15401,45.43668",
+    "geom:latitude":45.43668,
+    "geom:longitude":17.15401,
+    "gn:population":81,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509399: name \"Klisa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509399"
+        },
+        {
+            "citation":"GeoNames populated place 12509399: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509399"
+        },
+        {
+            "citation":"GeoNames populated place 12509399: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509399"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684763 (Po\u017ee\u0161ko-slavonska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684763,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509399
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"71180bf65a3607e1e30cf558215e83a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029647,
+            "region_id":85684763
+        }
+    ],
+    "wof:id":9895029647,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Klisa",
+    "wof:parent_id":85684763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15401,
+    45.43668,
+    17.15401,
+    45.43668
+],
+  "geometry": {"coordinates":[17.15401,45.43668],"type":"Point"}
+}

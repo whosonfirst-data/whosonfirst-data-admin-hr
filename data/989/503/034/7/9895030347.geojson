@@ -1,0 +1,73 @@
+{
+  "id": 9895030347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13791,46.2118,16.13791,46.2118",
+    "geom:latitude":46.2118,
+    "geom:longitude":16.13791,
+    "gn:population":86,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510259: name \"Vite\u0161inec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510259"
+        },
+        {
+            "citation":"GeoNames populated place 12510259: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510259"
+        },
+        {
+            "citation":"GeoNames populated place 12510259: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510259"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684835 (Vara\u017edinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684835,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510259
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"41c233997233fe19c532b41aa8b17a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030347,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":9895030347,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Vite\u0161inec",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13791,
+    46.2118,
+    16.13791,
+    46.2118
+],
+  "geometry": {"coordinates":[16.13791,46.2118],"type":"Point"}
+}

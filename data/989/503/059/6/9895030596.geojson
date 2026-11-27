@@ -1,0 +1,73 @@
+{
+  "id": 9895030596,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84133,45.40041,13.84133,45.40041",
+    "geom:latitude":45.40041,
+    "geom:longitude":13.84133,
+    "gn:population":34,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12510545: name \"\u0160orgi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12510545"
+        },
+        {
+            "citation":"GeoNames populated place 12510545: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12510545"
+        },
+        {
+            "citation":"GeoNames populated place 12510545: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12510545"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684829 (Istarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684829,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12510545
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"7c0ec904ae2428866171dba47c9c2599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030596,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":9895030596,
+    "wof:lastmodified":1795734984,
+    "wof:name":"\u0160orgi",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84133,
+    45.40041,
+    13.84133,
+    45.40041
+],
+  "geometry": {"coordinates":[13.84133,45.40041],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895029524,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46442,45.60155,15.46442,45.60155",
+    "geom:latitude":45.60155,
+    "geom:longitude":15.46442,
+    "gn:population":11,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509245: name \"Gor\u0161\u0107aki Ozaljski\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509245"
+        },
+        {
+            "citation":"GeoNames populated place 12509245: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509245"
+        },
+        {
+            "citation":"GeoNames populated place 12509245: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509245"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684819 (Karlovacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684819,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509245
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"dc8991452468d08d2766298ad22fb983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029524,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":9895029524,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Gor\u0161\u0107aki Ozaljski",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46442,
+    45.60155,
+    15.46442,
+    45.60155
+],
+  "geometry": {"coordinates":[15.46442,45.60155],"type":"Point"}
+}

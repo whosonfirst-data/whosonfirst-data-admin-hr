@@ -1,0 +1,73 @@
+{
+  "id": 9895029670,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63919,45.72563,15.63919,45.72563",
+    "geom:latitude":45.72563,
+    "geom:longitude":15.63919,
+    "gn:population":182,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509423: name \"Prilipje\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509423"
+        },
+        {
+            "citation":"GeoNames populated place 12509423: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509423"
+        },
+        {
+            "citation":"GeoNames populated place 12509423: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509423"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684765 (Zagrebacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684765,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509423
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"accacd5ea3fdd469dd1ec2d4b0118997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029670,
+            "region_id":85684765
+        }
+    ],
+    "wof:id":9895029670,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Prilipje",
+    "wof:parent_id":85684765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63919,
+    45.72563,
+    15.63919,
+    45.72563
+],
+  "geometry": {"coordinates":[15.63919,45.72563],"type":"Point"}
+}

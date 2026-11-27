@@ -1,0 +1,73 @@
+{
+  "id": 9895029547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19164,43.41245,17.19164,43.41245",
+    "geom:latitude":43.41245,
+    "geom:longitude":17.19164,
+    "gn:population":381,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509268: name \"Hr\u0161\u0107evani\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509268"
+        },
+        {
+            "citation":"GeoNames populated place 12509268: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509268"
+        },
+        {
+            "citation":"GeoNames populated place 12509268: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509268"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684781 (Splitsko-dalmatinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684781,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509268
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"688ba8e1f61c4ed04bd9af44e2dcaea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029547,
+            "region_id":85684781
+        }
+    ],
+    "wof:id":9895029547,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Hr\u0161\u0107evani",
+    "wof:parent_id":85684781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19164,
+    43.41245,
+    17.19164,
+    43.41245
+],
+  "geometry": {"coordinates":[17.19164,43.41245],"type":"Point"}
+}

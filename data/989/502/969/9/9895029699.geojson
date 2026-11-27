@@ -1,0 +1,73 @@
+{
+  "id": 9895029699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76263,46.02737,15.76263,46.02737",
+    "geom:latitude":46.02737,
+    "geom:longitude":15.76263,
+    "gn:population":146,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509452: name \"Toma\u0161evec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509452"
+        },
+        {
+            "citation":"GeoNames populated place 12509452: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509452"
+        },
+        {
+            "citation":"GeoNames populated place 12509452: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509452"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684813 (Krapinsko-zagorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684813,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509452
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"16c02711e4683b2b81056816d63f757f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029699,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":9895029699,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Toma\u0161evec",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76263,
+    46.02737,
+    15.76263,
+    46.02737
+],
+  "geometry": {"coordinates":[15.76263,46.02737],"type":"Point"}
+}

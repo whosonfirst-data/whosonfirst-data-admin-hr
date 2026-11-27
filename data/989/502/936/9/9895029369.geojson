@@ -1,0 +1,73 @@
+{
+  "id": 9895029369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76573,45.21014,13.76573,45.21014",
+    "geom:latitude":45.21014,
+    "geom:longitude":13.76573,
+    "gn:population":16,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12508990: name \"Banki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12508990"
+        },
+        {
+            "citation":"GeoNames populated place 12508990: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12508990"
+        },
+        {
+            "citation":"GeoNames populated place 12508990: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12508990"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684829 (Istarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684829,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12508990
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"063f7dccf6dd94cc2ff8825df27d3cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029369,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":9895029369,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Banki",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76573,
+    45.21014,
+    13.76573,
+    45.21014
+],
+  "geometry": {"coordinates":[13.76573,45.21014],"type":"Point"}
+}

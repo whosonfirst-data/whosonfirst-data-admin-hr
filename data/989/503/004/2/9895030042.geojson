@@ -1,0 +1,73 @@
+{
+  "id": 9895030042,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49507,45.15894,15.49507,45.15894",
+    "geom:latitude":45.15894,
+    "geom:longitude":15.49507,
+    "gn:population":7,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509873: name \"Gornje Primi\u0161lje\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509873"
+        },
+        {
+            "citation":"GeoNames populated place 12509873: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509873"
+        },
+        {
+            "citation":"GeoNames populated place 12509873: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509873"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684819 (Karlovacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684819,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509873
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"32003f8bbab7ef430ef26e5713f004bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030042,
+            "region_id":85684819
+        }
+    ],
+    "wof:id":9895030042,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Gornje Primi\u0161lje",
+    "wof:parent_id":85684819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49507,
+    45.15894,
+    15.49507,
+    45.15894
+],
+  "geometry": {"coordinates":[15.49507,45.15894],"type":"Point"}
+}

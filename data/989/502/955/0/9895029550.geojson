@@ -1,0 +1,73 @@
+{
+  "id": 9895029550,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7774,46.1566,15.7774,46.1566",
+    "geom:latitude":46.1566,
+    "geom:longitude":15.7774,
+    "gn:population":127,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509271: name \"Bu\u0161in\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509271"
+        },
+        {
+            "citation":"GeoNames populated place 12509271: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509271"
+        },
+        {
+            "citation":"GeoNames populated place 12509271: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509271"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684813 (Krapinsko-zagorska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684813,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509271
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"d8f89712e5f02a11defba947b32d030b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029550,
+            "region_id":85684813
+        }
+    ],
+    "wof:id":9895029550,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Bu\u0161in",
+    "wof:parent_id":85684813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7774,
+    46.1566,
+    15.7774,
+    46.1566
+],
+  "geometry": {"coordinates":[15.7774,46.1566],"type":"Point"}
+}

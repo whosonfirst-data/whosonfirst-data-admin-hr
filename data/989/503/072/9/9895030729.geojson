@@ -1,0 +1,72 @@
+{
+  "id": 9895030729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.76952,45.34257,13.76952,45.34257",
+    "geom:latitude":45.34257,
+    "geom:longitude":13.76952,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12514193: name \"Trombal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12514193"
+        },
+        {
+            "citation":"GeoNames populated place 12514193: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12514193"
+        },
+        {
+            "citation":"GeoNames populated place 12514193: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12514193"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684829 (Istarska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684829,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12514193
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"b9d517c5b49d97bb1ae10c6720d1e42e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895030729,
+            "region_id":85684829
+        }
+    ],
+    "wof:id":9895030729,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Trombal",
+    "wof:parent_id":85684829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.76952,
+    45.34257,
+    13.76952,
+    45.34257
+],
+  "geometry": {"coordinates":[13.76952,45.34257],"type":"Point"}
+}

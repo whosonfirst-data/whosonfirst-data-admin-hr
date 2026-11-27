@@ -1,0 +1,73 @@
+{
+  "id": 9895029260,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10059,46.21873,16.10059,46.21873",
+    "geom:latitude":46.21873,
+    "geom:longitude":16.10059,
+    "gn:population":291,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12508823: name \"Lan\u010di\u0107\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12508823"
+        },
+        {
+            "citation":"GeoNames populated place 12508823: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12508823"
+        },
+        {
+            "citation":"GeoNames populated place 12508823: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12508823"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684835 (Vara\u017edinska), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684835,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12508823
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"65767f8f107569b3d66cd13798f02bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029260,
+            "region_id":85684835
+        }
+    ],
+    "wof:id":9895029260,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Lan\u010di\u0107",
+    "wof:parent_id":85684835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10059,
+    46.21873,
+    16.10059,
+    46.21873
+],
+  "geometry": {"coordinates":[16.10059,46.21873],"type":"Point"}
+}

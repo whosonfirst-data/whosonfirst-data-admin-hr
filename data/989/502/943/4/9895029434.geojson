@@ -1,0 +1,73 @@
+{
+  "id": 9895029434,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16876,45.3279,16.16876,45.3279",
+    "geom:latitude":45.3279,
+    "geom:longitude":16.16876,
+    "gn:population":16,
+    "iso:country":"HR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12509088: name \"Trtnik Glinski\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12509088"
+        },
+        {
+            "citation":"GeoNames populated place 12509088: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12509088"
+        },
+        {
+            "citation":"GeoNames populated place 12509088: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12509088"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85684769 (Sisacko-moslavacka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633229,
+        85684769,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12509088
+    },
+    "wof:country":"HR",
+    "wof:geomhash":"3ff6355e55af3172122aeb8760bf9dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633229,
+            "locality_id":9895029434,
+            "region_id":85684769
+        }
+    ],
+    "wof:id":9895029434,
+    "wof:lastmodified":1795734984,
+    "wof:name":"Trtnik Glinski",
+    "wof:parent_id":85684769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.16876,
+    45.3279,
+    16.16876,
+    45.3279
+],
+  "geometry": {"coordinates":[16.16876,45.3279],"type":"Point"}
+}
